@@ -1,0 +1,14 @@
+# Preface
+
+
+### Manual Conventions
+
+TIP: This is a tip.
+
+NOTE: This is a Note.
+
+IMPORTANT: This is something important.
+
+CAUTION: If you see this, it means exercise caution.
+
+WARNING: This is a warning, not quite as serious as caution.
