@@ -2,10 +2,10 @@
 
 ## Kodiak System Rewrite
 
-In order to achieve longer automatic travel for saw cutting programs as well as
-provide greater flexibility in entering rock cutting programs, a control system
-level rewrite was required. In the interest of future system longevity additional
-design criteria also included the need to achieve conformance to PLCOpen standards.
+To achieve longer automatic travel for saw cutting programs as well as provide
+greater flexibility in entering rock cutting programs, a control system level
+rewrite was required. In the interest of future system longevity additional design
+criteria also included the need to achieve conformance to PLCOpen standards.
 Finally, there was a lack of message annunciation to the operator in the as built
 control system, a consequence of this was the addition of state messages and alarm
 conditions became self evident as being necessary.
