@@ -1,4 +1,8 @@
 \contentsline {chapter}{Introduction}{v}% 
 \contentsline {paragraph}{Manual Overview}{v}% 
+\contentsline {paragraph}{Screen Layout Style}{vi}% 
 \contentsline {chapter}{\numberline {1}The Main Screen}{1}% 
+\contentsline {paragraph}{Overview}{1}% 
+\contentsline {paragraph}{Main Screen Details}{2}% 
+\contentsline {paragraph}{Screen Navigation}{2}% 
 \contentsline {chapter}{\numberline {2}The Alarm Screen}{3}% 
