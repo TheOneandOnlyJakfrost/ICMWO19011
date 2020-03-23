@@ -1,6 +1,6 @@
 \chapter{The Main Screen}
 \paragraph{Overview}
-The Main Screen is the primary display screen. It is shown at power up, and is where Operation Mode (Hand or Automatic) is selected. It displays the Operator Message Centre which provides the Operator with current and relavent machine state information. There are aslo controls for \textit{Automatic \textbf{Cycle Start}} and \textit{Automatic \textbf{Cycle Stop}}, plus \textbf{\textit{Machine Full Stop}}. Finally, there are screen navigation keys provided for Operator access to other machine functions.
+The Main Screen is the primary display screen. It is shown at power up, and is where Operation Mode (Hand or Automatic) is selected. It displays the Operator Message Centre which provides the Operator with current and relavent machine state information. There are aslo controls for \textit{Mode \textbf{Hand/Auto}}, \textit{Automatic \textbf{Cycle Start}} and \textit{Automatic \textbf{Cycle Stop}}, plus \textbf{\textit{Machine Full Stop}}. There is an information area for Saw details, and one for the current running cut program. Finally, there are screen navigation keys provided for Operator access to other machine functions.
 \begin{figure}
 	\centering
 	\includegraphics[width=0.5\linewidth]{screen-captures/main-screen}
@@ -17,7 +17,7 @@ Main Screen Details are divided into the general categories.
 	\item \textbf{Program Details}
 	\item \textbf{Operation Control}
 \end{list}
-\paragraph{Screen Navigation}Is performed by using the Programmable Keys (FKeys) located down the left hand side of the OI Terminal. For the Main Screen there are three screens accessible using the labeled FKey's, \textbf{Alarms}, \textbf{Manual}, and \textbf{Program}.
+\paragraph{Screen Navigation}Is performed by using the programmable Function Keys (FKeys) located down the left hand side of the OI Terminal. For the Main Screen there are three screens accessible using the labeled FKey's, \textbf{Alarms}, \textbf{Manual}, and \textbf{Program}.
 \\
 \\
 \\
@@ -53,7 +53,21 @@ Is the message display area located on the Main Screen near the Title. It is use
 The \textbf{Operator Message Centre} shown above will display information messages for the Operator. If more than one message is active the display will scroll through all messages continuously.
 \\
 \paragraph{Saw Information}
-Is an area where the Operator can see Saw information at a glance. \textbf{Saw Kerf}, \textbf{Cut Depth}, and \textbf{Current Set} are displayed along with the \textbf{Motor Current Actual}.
+Is an area where the Operator can see Saw information at a glance. \textbf{Saw Kerf}, \textbf{Cut Depth}, and \textbf{Current Set} are displayed along with the \textbf{Motor Current Actual}.\newline 
+\\
+\begin{picture}(0,165)
+\includegraphics[width=.5\linewidth]{screen-captures/saw-info}
+\end{picture}
+\\
+\\
+\textbf{\LARGE ( \textcolor{blue}{i} )} This information is display only, in order to make changes to the saw parameters \textit{Blade Kerf, Cut Depth, and Current Set} the operator must navigate to the Program Screen. Where they may be changed at any time and in any mode, even while running in automatic/manual or faulted. More details on those settings can be found in the chapter dealing with the Cut Program Screen.
+\\
+\\
+\\
+\paragraph{Program Details} Display area will show the Operator details about the current block being cut as per the \textit{Cut Program} the Operator entered, while the Mode is automatic and the program is being executed. If the mode is automatic and the program execution is interrupted, or has completed, the display will show the last block details executed. If the Mode is Manual (Hand), and automatic operation has not been started/completed/interrupted, then it will display the first block of the cut program. Otherwise, the display will be the last block details from program execution, the same as if in Automatic mode. 
+\\
+\\
+\textbf{\LARGE \textcolor{blue}{( i )}} The saw will keep track of where it is in the Cut Program execution cycle. Further details about how the Cut Program is executed, and what behaviour to expect from cycle interruption due to completion, alarms or Operator action can be found in the section(s) following.
 \\
 \begin{picture}(0,165)
 \includegraphics[width=.5\linewidth]{screen-captures/saw-info}

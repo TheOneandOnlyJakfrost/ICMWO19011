@@ -1,5 +1,7 @@
 \contentsline {chapter}{Introduction}{v}% 
 \contentsline {paragraph}{Manual Overview}{v}% 
+\contentsline {paragraph}{}{v}% 
+\contentsline {paragraph}{}{v}% 
 \contentsline {paragraph}{Screen Layout Style}{vi}% 
 \contentsline {chapter}{\numberline {1}The Main Screen}{1}% 
 \contentsline {paragraph}{Overview}{1}% 
@@ -8,4 +10,5 @@
 \contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}i}}}{2}% 
 \contentsline {paragraph}{Operator Message Centre}{3}% 
 \contentsline {paragraph}{Saw Information}{3}% 
+\contentsline {paragraph}{Program Details}{4}% 
 \contentsline {chapter}{\numberline {2}The Alarm Screen}{5}% 
