@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.3)  23 MAR 2020 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.3)  23 MAR 2020 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -274,20 +274,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--67
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 67--18
+<screen-captures/main-screen-prg-det.png, id=42, 543.02875pt x 102.3825pt>
+File: screen-captures/main-screen-prg-det.png Graphic file (type png)
+<use screen-captures/main-screen-prg-det.png>
+Package pdftex.def Info: screen-captures/main-screen-prg-det.png  used on input
+ line 74.
+(pdftex.def)             Requested size: 370.49881pt x 69.85663pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--77
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <./screen-captures/message-centre.png> <./screen-captures/saw-info.png>] [4
-]
+ [3 <./screen-captures/message-centre.png> <./screen-captures/saw-info.png>]) [
+4 <./screen-captures/main-screen-prg-det.png>]
 \openout2 = `./TeX_files/chapter02.aux'.
 
-
-(./TeX_files/chapter02.tex
+ (./TeX_files/chapter02.tex
 Chapter 2.
 ) [5
 
@@ -299,10 +314,10 @@ Chapter 2.
 ] (./main.aux (./TeX_files/introduction.aux) (./TeX_files/chapter01.aux) (./TeX
 _files/chapter02.aux)) ) 
 Here is how much of TeX's memory you used:
- 1586 strings out of 492623
- 22611 string characters out of 6130947
+ 1591 strings out of 492623
+ 22809 string characters out of 6130947
  87709 words of memory out of 5000000
- 5465 multiletter control sequences out of 15000+600000
+ 5469 multiletter control sequences out of 15000+600000
  9866 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,25p,1804b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -311,10 +326,10 @@ pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></app/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmr12.pfb></app/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr17.pfb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.p
 fb></app/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (12 pages, 151750 bytes).
+Output written on main.pdf (12 pages, 156083 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

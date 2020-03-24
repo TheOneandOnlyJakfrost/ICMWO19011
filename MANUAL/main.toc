@@ -11,4 +11,6 @@
 \contentsline {paragraph}{Operator Message Centre}{3}% 
 \contentsline {paragraph}{Saw Information}{3}% 
 \contentsline {paragraph}{Program Details}{4}% 
+\contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}( i )}}}{4}% 
+\contentsline {paragraph}{\textbf {{\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {red}( ! )}}}}{4}% 
 \contentsline {chapter}{\numberline {2}The Alarm Screen}{5}% 
