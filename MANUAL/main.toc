@@ -6,11 +6,11 @@
 \contentsline {chapter}{\numberline {1}The Main Screen}{1}% 
 \contentsline {paragraph}{Overview}{1}% 
 \contentsline {paragraph}{Main Screen Details}{2}% 
-\contentsline {paragraph}{Screen Navigation}{2}% 
 \contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}i}}}{2}% 
 \contentsline {paragraph}{Operator Message Centre}{3}% 
-\contentsline {paragraph}{Saw Information}{3}% 
-\contentsline {paragraph}{Program Details}{4}% 
-\contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}( i )}}}{4}% 
-\contentsline {paragraph}{\textbf {{\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {red}( ! )}}}}{4}% 
-\contentsline {chapter}{\numberline {2}The Alarm Screen}{5}% 
+\contentsline {paragraph}{Saw Information}{4}% 
+\contentsline {paragraph}{Program Details}{5}% 
+\contentsline {paragraph}{Operation Control}{6}% 
+\contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}( i )}}}{6}% 
+\contentsline {paragraph}{\textbf {{\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {red}(!)}}}}{6}% 
+\contentsline {chapter}{\numberline {2}The Alarm Screen}{9}% 
