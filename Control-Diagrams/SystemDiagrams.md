@@ -68,7 +68,3 @@ Title: Initialisation Sequence
 ```
 
 The Sequence chart above represents the initialisation operations that occur when the request to initialise arrives. If a critical fault has occurred, the saw remains in the ***Disabled*** state until the faulted condition is cleared and acknowledged. The Comms are a short hand for Communications Ports. Since there are control and process critical data transmitted over the communication ports, it is important that they function as expected. The High Speed Counter inputs of the PLC need to be configured for the signals they will interpret from the encoder(s) that are connected to them, so must be initialised at the early stages of Power Up. Once the Comms are initalised,  the drives will be initialised. 
-
-
-
-
