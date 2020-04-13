@@ -13,4 +13,14 @@
 \contentsline {paragraph}{Operation Control}{6}% 
 \contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}( i )}}}{6}% 
 \contentsline {paragraph}{\textbf {{\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {red}(!)}}}}{6}% 
-\contentsline {chapter}{\numberline {2}The Alarm Screen}{9}% 
+\contentsline {paragraph}{Machine Full Stop}{8}% 
+\contentsline {chapter}{\numberline {2}The Alarm Screen}{11}% 
+\contentsline {paragraph}{Overview}{11}% 
+\contentsline {paragraph}{Alarm Screen Details}{12}% 
+\contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}i}}}{12}% 
+\contentsline {paragraph}{Alarm Message Display}{13}% 
+\contentsline {paragraph}{Alarm Reset}{14}% 
+\contentsline {chapter}{\numberline {3}Manual Screen}{17}% 
+\contentsline {paragraph}{Overview}{17}% 
+\contentsline {paragraph}{Manual Screen Details}{18}% 
+\contentsline {paragraph}{\textbf {\relax \fontsize {20.74}{25}\selectfont \leavevmode {\color {blue}i}}}{19}% 

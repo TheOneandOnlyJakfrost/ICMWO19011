@@ -1,6 +1,6 @@
 \chapter{The Main Screen}
 \paragraph{Overview}
-The Main Screen is the primary display screen. It is shown at power up, and is where Operation Mode (Hand or Automatic) is selected. It displays the Operator Message Centre which provides the Operator with current and relavent machine state information. There are aslo controls for \textit{Mode \textbf{Hand/Auto}}, \textit{Automatic \textbf{Cycle Start}} and \textit{Automatic \textbf{Cycle Stop}}, plus \textbf{\textit{Machine Full Stop}}. There is an information area for Saw details, and one for the current running cut program. Finally, there are screen navigation keys provided for Operator access to other machine functions.
+The Main Screen is the primary display screen. It is shown at power up, and is where Operation Mode (Hand or Automatic) is selected. It displays the Operator Message Centre which provides the Operator with current and relavent machine state information. There are also controls for \textit{Mode \textbf{Hand/Auto}}, \textit{Automatic \textbf{Cycle Start}} and \textit{Automatic \textbf{Cycle Stop}}, plus \textbf{\textit{Machine Full Stop}}. There is an information area for Saw details, and one for the current running cut program. Finally, there are screen navigation keys provided for Operator access to other machine functions.
 \begin{figure}
 	\centering
 	\includegraphics[width=0.5\linewidth]{screen-captures/main-screen}
@@ -10,7 +10,7 @@ The Main Screen is the primary display screen. It is shown at power up, and is w
 \pagebreak
 \paragraph{Main Screen Details}
 Main Screen Details are divided into the general categories.
-\begin{list}{-}{}
+\begin{list}{$\diamond$}{}
 	\item \textbf{Screen Navigation}
 	\item \textbf{Operator Message Centre}
 	\item \textbf{Saw Information}
@@ -24,7 +24,7 @@ Main Screen Details are divided into the general categories.
 		\caption{Main Screen Navigation}
 		\label{fig:main-nav}
 \end{figure}
-\begin{list}{-}{}
+\begin{list}{$\diamond$}{}
 	\item \textbf{GOTO ALARM} Navigate to Alarms Screen.
 	\item \textbf{GOTO MANUAL} Navigate to Manual Screen.
 	\item \textbf{GOTO PROGRAM} Navigate to Cut Program Screen.
@@ -120,4 +120,14 @@ An example would be if the Long Axis was moved in the positive direction prior t
 	\label{fig:main-mode-strt-stp}
 \end{figure}
 \paragraph*{Mode Set} Refer to Figure 1.7 shown above. The \textit{Hand/Auto} selector switch is provided for the Operator to be able to select \textit{Hand} or \textit{Auto} modes. Above both mode positions is an indicator light. As well as the switch position, the corresponding light will be on indicating which of the modes is selected. The blue light on will indicate that \textit{Hand} mode is selected. While the green light indicates \textit{Auto} mode is selected. When the selector is set to \textbf{\textit{Hand}}, the \textit{Blue} \textit{Hand} \textit{Indicator} will be on solid if no faults exist and flash if there is a fault, or if the machine needs homing of any axis. Selecting \textit{Hand} while in \textit{Auto} will change the mode to \textit{Hand}, even if a programmed cycle is running. When the \textit{Hand/Auto} selector switch is set to \textbf{\textit{Auto}}, the \textit{Green Auto Indicator} will flash if the saw is ready to run a cut program. In order to be ready to run a cut program in \textit{Auto} all of the saw axii must have been homed, no faults of any kind may exist, and a valid cut program must have been entered. When in \textit{Auto} mode, and once the \textit{Cycle Start} Pushbutton is pressed, the saw will begin \textit{Automatic} execution of the \textit{Cut Program} the Operator entered and the \textit{Auto} Indicator will be on solid.
-\paragraph*{Cycle Stop} When pressed while an \textit{Auto} cycle is executing a \textit{Cut Program}, will cycle stop the saw at completion of the currently executing step of the cycle. In practical terms what this means is that if the saw was moving to a new cut location, it would stop motion, and pause \textit{Auto} cycle, once that particular move was completed. This includes \textit{Cross Travel} motion, \textit{Vertical} motion, and \textit{Long Travel} motion.
+\paragraph*{Cycle Stop} When pressed while an \textit{Auto} cycle is executing a \textit{Cut Program}, will cycle stop the saw at completion of the currently executing step of the cycle. In practical terms what this means is that if the saw was moving to a new cut location, it would stop motion, and pause \textit{Auto} cycle, once that particular move was completed. This includes \textit{Cross Travel} motion, \textit{Vertical} motion, and \textit{Long Travel} motion. The saw will remain in \textit{Auto} mode after a \textbf{\textit{Cycle Stop}} has occurred.
+\begin{figure}
+	\centering
+	\includegraphics[width=.2\linewidth]{screen-captures/main-screen-mach-full-stop}
+	\caption{Main Screen Machine Full Stop}
+	\label{fig:main-mach-full-stop}
+\end{figure}
+\paragraph{Machine Full Stop} Refer to Figure 1.8 above. \textbf{\textit{Machine Full Stop}} pushbutton is intended to be used in the event the Operator feels an immediate stop of automatic or manual motion is necessary. Unlike the \textbf{\textit{Cycle Stop}} pushbutton, pressing \textbf{\textit{Machine Full Stop}} will immediately stop all motion of the saw and exit \textit{Auto} mode. 
+\paragraph*{\textbf{{\LARGE \textcolor{red}{!}}}}Unlike an Emergency Stop pushbutton, this is a programmed response to an Operator perceived hazard potential and \textbf{must not} be relied upon as a safety measure in any respect.
+\paragraph*{\textbf{\LARGE \textcolor{blue}{i}}} A program that has been \textbf{\textit{Cycle Stop}}'d can be restarted from the stop location, even if the program has been changed within the limits of the program as it was running until then. What this means in practice is that if the Operator determined they need to correct an error in the cut program, in a part that hasn't been cut yet, they would be able to cycle stop the saw, correct the error, then \textbf{\textit{Cycle Start}} the program to continue.
+\paragraph*{\textbf{{\LARGE \textcolor{red}{!}}}} If a program has been modified after a \textbf{\textit{Cycle Stop}} occurred, the restart of the cut program could generate and error if the data change exceeds the known saw limits. Refer to the chapter on \textbf{Cut Program} entry and details for further explanation.
