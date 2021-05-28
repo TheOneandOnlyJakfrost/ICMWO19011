@@ -6,8 +6,8 @@ BEGIN
   BarID:=59422;
   Bars:=6;
   Bar[0]:=0;
-  Bar[1]:=59415;
-  Bar[2]:=59414;
+  Bar[1]:=59414;
+  Bar[2]:=59415;
   Bar[3]:=59416;
   Bar[4]:=59412;
   Bar[5]:=0;
@@ -51,19 +51,19 @@ BEGIN
  Bar[2]:=
  BEGIN
   BarID:=59414;
-  Pos:="65 5";
+  Pos:="1 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="65 5 402 185";
+  MRUDockPos:="1 5 388 186";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="249116";
+  PctWidth:="286280";
   MRUFloat:="300 180";
-  MRUHorzDock:="337 180";
+  MRUHorzDock:="387 181";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -75,19 +75,19 @@ BEGIN
  Bar[3]:=
  BEGIN
   BarID:=59412;
-  Pos:="408 5";
+  Pos:="441 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="408 5 1366 185";
+  MRUDockPos:="441 5 1366 186";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="707958";
+  PctWidth:="682977";
   MRUFloat:="300 180";
-  MRUHorzDock:="958 180";
+  MRUHorzDock:="925 181";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -112,7 +112,7 @@ BEGIN
   MDIChild:=0;
   PctWidth:="500000";
   MRUFloat:="300 180";
-  MRUHorzDock:="501 180";
+  MRUHorzDock:="501 86";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -126,8 +126,8 @@ BEGIN
   BarID:=59413;
   Pos:="0 -2";
   Docking:=1;
-  MRUDockID:=0;
-  MRUDockPos:="0 -2 300 359";
+  MRUDockID:=59420;
+  MRUDockPos:="0 -2 308 358";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=8084;
@@ -137,7 +137,7 @@ BEGIN
   PctWidth:="1000000";
   MRUFloat:="300 180";
   MRUHorzDock:="300 180";
-  MRUVertDock:="300 361";
+  MRUVertDock:="308 360";
   MRUDockingState:=0;
   DockingStyle:=61440;
   TypeID:=0;
@@ -148,19 +148,19 @@ BEGIN
  Bar[6]:=
  BEGIN
   BarID:=59415;
-  Pos:="1 5";
+  Pos:="394 5";
   Docking:=1;
-  MRUDockID:=0;
-  MRUDockPos:="1 5 59 185";
+  MRUDockID:=59422;
+  MRUDockPos:="394 5 435 186";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="42924";
+  PctWidth:="30741";
   MRUFloat:="300 180";
-  MRUHorzDock:="58 180";
+  MRUHorzDock:="41 181";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -176,62 +176,33 @@ ProjectTree:=
 BEGIN
  Item[0]:=0;
  Item[1]:=2;
- Item[2]:=123;
- Item[3]:=124;
+ Item[2]:=129;
+ Item[3]:=130;
  ItemCount:=4;
- Sumcheck:=251;
- Selected:=139;
- ScrollPos:="0 7";
+ Sumcheck:=267;
+ Selected:=136;
+ ScrollPos:="0 11";
 END;
 Frame[0]:=
 BEGIN
- Norm:="0104 0104 1060 0359";
+ Norm:="0104 0104 1052 0358";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Stop!Ctl_Cycle_Stop";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Saw!Ctl_Saw";
  Type:=1;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=37;
+   Yscroll:=69;
   END;
   nViews:=1;
  END;
 END;
 Frame[1]:=
 BEGIN
- Norm:="0078 0078 1034 0333";
+ Norm:="0000 0000 0948 0254";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Interlock_Alarm!Interlock_Alarm";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=12;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[2]:=
-BEGIN
- Norm:="0026 0026 0982 0281";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Init_Message_Display!Init_Message_Display";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-  END;
-  nViews:=1;
- END;
-END;
-Frame[3]:=
-BEGIN
- Norm:="0104 0104 1060 0359";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Init_Alarm_Display!Init_Alarm_Display";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Start!Ctl_Cycle_Start";
  Type:=1;
  Views:=
  BEGIN
@@ -242,74 +213,70 @@ BEGIN
   nViews:=1;
  END;
 END;
-Frame[4]:=
+Frame[2]:=
 BEGIN
- Norm:="0026 0026 0982 0281";
+ Norm:="0026 0026 0974 0280";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Transverse_Axis!Ctl_Transverse_Axis";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Stop!Ctl_Cycle_Stop";
  Type:=1;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=169;
+   Yscroll:=25;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[3]:=
+BEGIN
+ Norm:="0078 0078 1026 0332";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Long_Axis!Ctl_Long_Axis";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=74;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[4]:=
+BEGIN
+ Norm:="0052 0052 1000 0306";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Vertical_Axis!Ctl_Vertical_Axis";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=21;
   END;
   nViews:=1;
  END;
 END;
 Frame[5]:=
 BEGIN
- Norm:="0000 0000 0956 0255";
+ Norm:="0052 0052 1000 0306";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Function Blocks.MC_Axis_Motion!MC_Axis_Motion";
- Type:=9;
- Ysplit:=72;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Mag:=1;
-  END;
-  View[1]:=
-  BEGIN
-   Mag:=1;
-  END;
-  nViews:=2;
- END;
-END;
-Frame[6]:=
-BEGIN
- Norm:="0000 0000 0956 0255";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Auto_Cycle_Sequence!Ctl_Auto_Cycle_Sequence";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=375;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[7]:=
-BEGIN
- Norm:="0000 0000 0956 0255";
- Min:="-001 -001";
- Path:="C:\Users\s40w5\Documents\Projects\WO19011\ICMWO19011\PLC\LQK19011ICM.cxp";
+ Path:="C:\Users\Steven Snow\Documents\icm_docs\BPS_Omron_Saw_Program_Test\REPO\repository\PLC\LQK19011ICM.cxp";
  Access:="PROJECT:!NewProject.Resources.NewResource1.Symbols";
  Type:=3;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
+   Yscroll:=1149;
    Mag:=1;
    Extra:=
    BEGIN
     Type:="CSymbolTableListCtrlState";
     Style:=1;
     NumCols:=7;
-    Width[0]:=191;
+    Width[0]:=150;
     Width[1]:=90;
     Width[2]:=100;
     Width[3]:=1;
@@ -322,17 +289,47 @@ BEGIN
   nViews:=1;
  END;
 END;
-Frame[8]:=
+Frame[6]:=
 BEGIN
- Norm:="0026 0026 0982 0281";
+ Norm:="0000 0000 0951 0254";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Long_Axis!Ctl_Long_Axis";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Auto_Cycle_Sequence!Ctl_Auto_Cycle_Sequence";
  Type:=1;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=63;
+   Yscroll:=519;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[7]:=
+BEGIN
+ Norm:="0000 0000 0948 0254";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Pgm_Chk!Pgm_Chk";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=7;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[8]:=
+BEGIN
+ Norm:="0078 0078 1026 0332";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Init_Recipe!Init_Recipe";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=35;
   END;
   nViews:=1;
  END;
@@ -340,15 +337,14 @@ END;
 Frame[9]:=
 BEGIN
  Max:=true;
- Norm:="0000 0000 0956 0255";
+ Norm:="0026 0026 0974 0280";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Vertical_Axis!Ctl_Vertical_Axis";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Power!Ctl_Power";
  Type:=1;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=49;
   END;
   nViews:=1;
  END;
