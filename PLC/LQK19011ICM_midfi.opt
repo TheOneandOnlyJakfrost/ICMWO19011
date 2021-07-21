@@ -6,8 +6,8 @@ BEGIN
   BarID:=59422;
   Bars:=6;
   Bar[0]:=0;
-  Bar[1]:=59414;
-  Bar[2]:=59415;
+  Bar[1]:=59415;
+  Bar[2]:=59414;
   Bar[3]:=59416;
   Bar[4]:=59412;
   Bar[5]:=0;
@@ -51,19 +51,19 @@ BEGIN
  Bar[2]:=
  BEGIN
   BarID:=59414;
-  Pos:="1 5";
+  Pos:="39 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="1 5 790 186";
+  MRUDockPos:="39 5 945 186";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="582975";
+  PctWidth:="669284";
   MRUFloat:="300 180";
-  MRUHorzDock:="789 181";
+  MRUHorzDock:="906 181";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -75,19 +75,19 @@ BEGIN
  Bar[3]:=
  BEGIN
   BarID:=59412;
-  Pos:="829 5";
+  Pos:="951 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="829 5 1366 186";
+  MRUDockPos:="951 5 1366 186";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="396876";
+  PctWidth:="306674";
   MRUFloat:="300 180";
-  MRUHorzDock:="537 181";
+  MRUHorzDock:="415 181";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -148,19 +148,19 @@ BEGIN
  Bar[6]:=
  BEGIN
   BarID:=59415;
-  Pos:="796 5";
+  Pos:="1 5";
   Docking:=1;
   MRUDockID:=59422;
-  MRUDockPos:="796 5 823 186";
+  MRUDockPos:="1 5 33 186";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="20147";
+  PctWidth:="24040";
   MRUFloat:="300 180";
-  MRUHorzDock:="27 181";
+  MRUHorzDock:="32 181";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -180,85 +180,27 @@ BEGIN
  Item[3]:=130;
  ItemCount:=4;
  Sumcheck:=267;
- Selected:=142;
+ Selected:=153;
+ ScrollPos:="0 14";
 END;
 Frame[0]:=
 BEGIN
- Norm:="0104 0104 1052 0358";
+ Norm:="0000 0000 0950 0254";
  Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Saw!Ctl_Saw";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Run!Ctl_Cycle_Run";
  Type:=1;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=69;
+   Yscroll:=8;
   END;
   nViews:=1;
  END;
 END;
 Frame[1]:=
 BEGIN
- Norm:="0000 0000 0948 0254";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Start!Ctl_Cycle_Start";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=24;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[2]:=
-BEGIN
- Norm:="0026 0026 0974 0280";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Stop!Ctl_Cycle_Stop";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=25;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[3]:=
-BEGIN
- Norm:="0052 0052 1000 0306";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Vertical_Axis!Ctl_Vertical_Axis";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=21;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[4]:=
-BEGIN
- Norm:="0026 0026 0974 0280";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Power!Ctl_Power";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-  END;
-  nViews:=1;
- END;
-END;
-Frame[5]:=
-BEGIN
- Norm:="0078 0078 1026 0332";
+ Norm:="0000 0000 0950 0254";
  Min:="-001 -001";
  Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Init_Recipe!Init_Recipe";
  Type:=1;
@@ -266,14 +208,59 @@ BEGIN
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=294;
+   Yscroll:=208;
   END;
   nViews:=1;
  END;
 END;
-Frame[6]:=
+Frame[2]:=
 BEGIN
- Norm:="0052 0052 1000 0306";
+ Norm:="0052 0052 1002 0306";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Long_Axis!Ctl_Long_Axis";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=75;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[3]:=
+BEGIN
+ Norm:="0000 0000 0950 0254";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Transverse_Axis!Ctl_Transverse_Axis";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=170;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[4]:=
+BEGIN
+ Norm:="0000 0000 0950 0254";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Vertical_Axis!Ctl_Vertical_Axis";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=72;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[5]:=
+BEGIN
+ Norm:="0026 0026 0976 0280";
  Min:="-001 -001";
  Path:="C:\Users\Steven Snow\Documents\icm_docs\BPS_Omron_Saw_Program_Test\REPO\repository\PLC\LQK19011ICM_midfi.cxp";
  Access:="PROJECT:!NewProject.Resources.NewResource1.Symbols";
@@ -282,7 +269,6 @@ BEGIN
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=169;
    Mag:=1;
    Extra:=
    BEGIN
@@ -295,46 +281,15 @@ BEGIN
     Width[3]:=1;
     Width[4]:=84;
     Width[5]:=48;
-    Width[6]:=200;
+    Width[6]:=413;
     SortCol:=2;
    END;
   END;
   nViews:=1;
  END;
 END;
-Frame[7]:=
+Frame[6]:=
 BEGIN
- Norm:="0078 0078 1026 0332";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Long_Axis!Ctl_Long_Axis";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=54;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[8]:=
-BEGIN
- Norm:="0000 0000 0948 0254";
- Min:="-001 -001";
- Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Pgm_Chk!Pgm_Chk";
- Type:=1;
- Views:=
- BEGIN
-  View[0]:=
-  BEGIN
-   Yscroll:=1;
-  END;
-  nViews:=1;
- END;
-END;
-Frame[9]:=
-BEGIN
- Max:=true;
  Norm:="0000 0000 0951 0254";
  Min:="-001 -001";
  Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Auto_Cycle_Sequence!Ctl_Auto_Cycle_Sequence";
@@ -343,7 +298,52 @@ BEGIN
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=601;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[7]:=
+BEGIN
+ Norm:="0026 0026 0976 0280";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Ctl_Cycle_Start!Ctl_Cycle_Start";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=10;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[8]:=
+BEGIN
+ Norm:="0000 0000 0950 0254";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Init_Message_Display!Init_Message_Display";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=34;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[9]:=
+BEGIN
+ Max:=true;
+ Norm:="0052 0052 1002 0306";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.Main.Sections.Pgm_Chk!Pgm_Chk";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=1064;
   END;
   nViews:=1;
  END;
