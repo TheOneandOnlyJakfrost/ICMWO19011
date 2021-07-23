@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020' - Flatpak') (preloaded format=pdflatex 2021.3.14)  20 JUL 2021 08:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020' - Flatpak') (preloaded format=pdflatex 2021.3.14)  20 JUL 2021 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,13 +150,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-<screen-captures/main-screen.png, id=25, 797.98125pt x 608.2725pt>
+<screen-captures/main-screen.png, id=25, 807.015pt x 706.64pt>
 File: screen-captures/main-screen.png Graphic file (type png)
 <use screen-captures/main-screen.png>
 Package pdftex.def Info: screen-captures/main-screen.png  used on input line 9.
 
-(pdftex.def)             Requested size: 195.0pt x 148.64288pt.
- [7 <./screen-captures/main-screen.png (PNG copy)>]) [8]
+(pdftex.def)             Requested size: 195.0pt x 170.74pt.
+) [7] [8 <./screen-captures/main-screen.png>]
 \openout2 = `./TeX_files/chapter01.aux'.
 
  (./TeX_files/chapter01.tex
@@ -165,7 +165,7 @@ File: screen-captures/main-screen.png Graphic file (type png)
 <use screen-captures/main-screen.png>
 Package pdftex.def Info: screen-captures/main-screen.png  used on input line 6.
 
-(pdftex.def)             Requested size: 195.0pt x 148.64288pt.
+(pdftex.def)             Requested size: 195.0pt x 170.74pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -175,12 +175,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<screen-captures/main-nav.png, id=38, 205.76875pt x 248.93pt>
+<screen-captures/main-nav.png, id=40, 205.76875pt x 248.93pt>
 File: screen-captures/main-nav.png Graphic file (type png)
 <use screen-captures/main-nav.png>
 Package pdftex.def Info: screen-captures/main-nav.png  used on input line 23.
 (pdftex.def)             Requested size: 117.00119pt x 141.54211pt.
-<screen-captures/menu.png, id=40, 90.3375pt x 66.2475pt>
+<screen-captures/menu.png, id=41, 90.3375pt x 66.2475pt>
 File: screen-captures/menu.png Graphic file (type png)
 <use screen-captures/menu.png>
 Package pdftex.def Info: screen-captures/menu.png  used on input line 37.
@@ -190,11 +190,11 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 34--43
 []$$[]$
  []
 
-[2 <./screen-captures/main-nav.png>]
+[2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <./screen-captures/menu.png>]
-<screen-captures/message-centre.png, id=50, 548.0475pt x 122.4575pt>
+ [3 <./screen-captures/main-nav.png> <./screen-captures/menu.png>]
+<screen-captures/message-centre.png, id=51, 548.0475pt x 122.4575pt>
 File: screen-captures/message-centre.png Graphic file (type png)
 <use screen-captures/message-centre.png>
 Package pdftex.def Info: screen-captures/message-centre.png  used on input line
@@ -274,11 +274,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--68
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4 <./screen-captures/message-centre.png>]
-<screen-captures/saw-info.png, id=55, 231.86626pt x 180.675pt>
+<screen-captures/saw-info.png, id=56, 807.015pt x 706.64pt>
 File: screen-captures/saw-info.png Graphic file (type png)
 <use screen-captures/saw-info.png>
 Package pdftex.def Info: screen-captures/saw-info.png  used on input line 74.
-(pdftex.def)             Requested size: 195.0pt x 151.95065pt.
+(pdftex.def)             Requested size: 195.0pt x 170.74pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 69--90
 
@@ -333,13 +333,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--90
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./screen-captures/saw-info.png>]
-<screen-captures/main-screen-prg-det.png, id=61, 543.02875pt x 102.3825pt>
+<screen-captures/main-screen-prg-det.png, id=62, 543.02875pt x 102.3825pt>
 File: screen-captures/main-screen-prg-det.png Graphic file (type png)
 <use screen-captures/main-screen-prg-det.png>
 Package pdftex.def Info: screen-captures/main-screen-prg-det.png  used on input
  line 96.
 (pdftex.def)             Requested size: 370.49881pt x 69.85663pt.
-<screen-captures/main-screen-opctl.png, id=62, 400.49625pt x 177.66376pt>
+<screen-captures/main-screen-opctl.png, id=63, 400.49625pt x 177.66376pt>
 File: screen-captures/main-screen-opctl.png Graphic file (type png)
 <use screen-captures/main-screen-opctl.png>
 Package pdftex.def Info: screen-captures/main-screen-opctl.png  used on input l
@@ -369,7 +369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--112
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./screen-captures/main-screen-prg-det.png>]
-<screen-captures/main-screen-mode-strt-stp.png, id=66, 268.00125pt x 179.67125p
+<screen-captures/main-screen-mode-strt-stp.png, id=67, 268.00125pt x 179.67125p
 t>
 File: screen-captures/main-screen-mode-strt-stp.png Graphic file (type png)
 <use screen-captures/main-screen-mode-strt-stp.png>
@@ -378,7 +378,7 @@ Package pdftex.def Info: screen-captures/main-screen-mode-strt-stp.png  used on
 (pdftex.def)             Requested size: 370.49881pt x 248.38521pt.
  [7 <./screen-captures/main-screen-opctl.png>] [8 <./screen-captures/main-scree
 n-mode-strt-stp.png>]
-<screen-captures/main-screen-mach-full-stop.png, id=73, 93.34875pt x 178.6675pt
+<screen-captures/main-screen-mach-full-stop.png, id=74, 93.34875pt x 178.6675pt
 >
 File: screen-captures/main-screen-mach-full-stop.png Graphic file (type png)
 <use screen-captures/main-screen-mach-full-stop.png>
@@ -390,11 +390,11 @@ n input line 126.
 
  (./TeX_files/chapter02.tex
 Chapter 2.
-<screen-captures/alarms.png, id=80, 800.9925pt x 614.295pt>
+<screen-captures/alarms.png, id=81, 807.015pt x 706.64pt>
 File: screen-captures/alarms.png Graphic file (type png)
 <use screen-captures/alarms.png>
 Package pdftex.def Info: screen-captures/alarms.png  used on input line 7.
-(pdftex.def)             Requested size: 195.0pt x 149.54282pt.
+(pdftex.def)             Requested size: 195.0pt x 170.74pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -402,13 +402,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
- <./screen-captures/alarms.png (PNG copy)>]
-<screen-captures/alarms-nav.png, id=85, 195.73125pt x 172.645pt>
+]
+<screen-captures/alarms-nav.png, id=86, 195.73125pt x 172.645pt>
 File: screen-captures/alarms-nav.png Graphic file (type png)
 <use screen-captures/alarms-nav.png>
 Package pdftex.def Info: screen-captures/alarms-nav.png  used on input line 22.
 
 (pdftex.def)             Requested size: 117.00119pt x 103.20317pt.
+
+[12 <./screen-captures/alarms.png> <./screen-captures/alarms-nav.png>]
 File: screen-captures/menu.png Graphic file (type png)
 <use screen-captures/menu.png>
 Package pdftex.def Info: screen-captures/menu.png  used on input line 35.
@@ -418,8 +420,11 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 32--41
 []$$[]$
  []
 
-[12 <./screen-captures/alarms-nav.png>]
-<screen-captures/alarm-msg-cntr.png, id=89, 558.085pt x 136.51pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+<screen-captures/alarm-msg-cntr.png, id=94, 558.085pt x 136.51pt>
 File: screen-captures/alarm-msg-cntr.png Graphic file (type png)
 <use screen-captures/alarm-msg-cntr.png>
 Package pdftex.def Info: screen-captures/alarm-msg-cntr.png  used on input line
@@ -538,28 +543,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--73
 
 Underfull \vbox (badness 3930) has occurred while \output is active []
 
- [13 <./screen-captures/alarm-msg-cntr.png>]
+ [14 <./screen-captures/alarm-msg-cntr.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-<screen-captures/alarms-reset.png, id=96, 286.06876pt x 98.3675pt>
+ [15]
+<screen-captures/alarms-reset.png, id=101, 286.06876pt x 98.3675pt>
 File: screen-captures/alarms-reset.png Graphic file (type png)
 <use screen-captures/alarms-reset.png>
 Package pdftex.def Info: screen-captures/alarms-reset.png  used on input line 7
 6.
 (pdftex.def)             Requested size: 117.00119pt x 40.23186pt.
 )
-[15 <./screen-captures/alarms-reset.png>] [16]
+[16 <./screen-captures/alarms-reset.png>] [17]
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex
+[18
+
+
+
+]
 Chapter 3.
-<screen-captures/manual.png, id=103, 795.97375pt x 609.27625pt>
+<screen-captures/manual.png, id=112, 795.97375pt x 609.27625pt>
 File: screen-captures/manual.png Graphic file (type png)
 <use screen-captures/manual.png>
 Package pdftex.def Info: screen-captures/manual.png  used on input line 6.
 (pdftex.def)             Requested size: 195.0pt x 149.26004pt.
-<screen-captures/manual-nav.png, id=104, 215.80624pt x 588.1975pt>
+<screen-captures/manual-nav.png, id=113, 215.80624pt x 588.1975pt>
 File: screen-captures/manual-nav.png Graphic file (type png)
 <use screen-captures/manual-nav.png>
 Package pdftex.def Info: screen-captures/manual-nav.png  used on input line 19.
@@ -593,17 +603,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--23
 
 Underfull \vbox (badness 2478) has occurred while \output is active []
 
- [17
-
-
-
- <./screen-captures/manual.png (PNG copy)>] [18 <./screen-captures/manual-nav.p
-ng>]
+ [19 <./screen-captures/manual.png (PNG copy)>] [20 <./screen-captures/manual-n
+av.png>]
 File: screen-captures/menu.png Graphic file (type png)
 <use screen-captures/menu.png>
 Package pdftex.def Info: screen-captures/menu.png  used on input line 44.
 (pdftex.def)             Requested size: 56.9055pt x 41.73108pt.
-<screen-captures/manual-home-all.png, id=112, 96.36pt x 248.93pt>
+<screen-captures/manual-home-all.png, id=120, 96.36pt x 248.93pt>
 File: screen-captures/manual-home-all.png Graphic file (type png)
 <use screen-captures/manual-home-all.png>
 Package pdftex.def Info: screen-captures/manual-home-all.png  used on input lin
@@ -617,9 +623,9 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 41--56
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
-[20 <./screen-captures/manual-home-all.png>]
-<screen-captures/manual-lazer.png, id=119, 104.39pt x 255.95625pt>
+ [21]
+[22 <./screen-captures/manual-home-all.png>]
+<screen-captures/manual-lazer.png, id=127, 104.39pt x 255.95625pt>
 File: screen-captures/manual-lazer.png Graphic file (type png)
 <use screen-captures/manual-lazer.png>
 Package pdftex.def Info: screen-captures/manual-lazer.png  used on input line 7
@@ -628,8 +634,8 @@ Package pdftex.def Info: screen-captures/manual-lazer.png  used on input line 7
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
-<screen-captures/manual-water.png, id=123, 101.37875pt x 259.97125pt>
+ [23]
+<screen-captures/manual-water.png, id=132, 101.37875pt x 259.97125pt>
 File: screen-captures/manual-water.png Graphic file (type png)
 <use screen-captures/manual-water.png>
 Package pdftex.def Info: screen-captures/manual-water.png  used on input line 8
@@ -638,8 +644,8 @@ Package pdftex.def Info: screen-captures/manual-water.png  used on input line 8
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <./screen-captures/manual-lazer.png>]
-<screen-captures/manual-saw.png, id=127, 97.36375pt x 329.23pt>
+ [24 <./screen-captures/manual-lazer.png>]
+<screen-captures/manual-saw.png, id=136, 97.36375pt x 329.23pt>
 File: screen-captures/manual-saw.png Graphic file (type png)
 <use screen-captures/manual-saw.png>
 Package pdftex.def Info: screen-captures/manual-saw.png  used on input line 97.
@@ -648,29 +654,29 @@ Package pdftex.def Info: screen-captures/manual-saw.png  used on input line 97.
 
 Underfull \vbox (badness 7116) has occurred while \output is active []
 
- [23 <./screen-captures/manual-water.png>])
+ [25 <./screen-captures/manual-water.png>])
 Underfull \vbox (badness 5417) has occurred while \output is active []
 
- [24 <./screen-captures/manual-saw.png>] [25]
+ [26 <./screen-captures/manual-saw.png>] [27]
 \openout2 = `./TeX_files/chapter04.aux'.
 
- (./TeX_files/chapter04.tex [26
+ (./TeX_files/chapter04.tex [28
 
 
 
 ]
 Chapter 4.
-<screen-captures/vert-manual.png, id=143, 797.98125pt x 606.265pt>
+<screen-captures/vert-manual.png, id=151, 807.015pt x 706.64pt>
 File: screen-captures/vert-manual.png Graphic file (type png)
 <use screen-captures/vert-manual.png>
 Package pdftex.def Info: screen-captures/vert-manual.png  used on input line 5.
 
-(pdftex.def)             Requested size: 195.0pt x 148.15231pt.
+(pdftex.def)             Requested size: 195.0pt x 170.74pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <./screen-captures/vert-manual.png (PNG copy)>]
-<screen-captures/vert-manual-nav.png, id=147, 226.8475pt x 583.17876pt>
+ [29]
+<screen-captures/vert-manual-nav.png, id=156, 226.8475pt x 583.17876pt>
 File: screen-captures/vert-manual-nav.png Graphic file (type png)
 <use screen-captures/vert-manual-nav.png>
 Package pdftex.def Info: screen-captures/vert-manual-nav.png  used on input lin
@@ -680,7 +686,7 @@ File: screen-captures/menu.png Graphic file (type png)
 <use screen-captures/menu.png>
 Package pdftex.def Info: screen-captures/menu.png  used on input line 34.
 (pdftex.def)             Requested size: 56.9055pt x 41.73108pt.
-<screen-captures/vert-manual-home.png, id=148, 100.375pt x 243.91125pt>
+<screen-captures/vert-manual-home.png, id=157, 100.375pt x 243.91125pt>
 File: screen-captures/vert-manual-home.png Graphic file (type png)
 <use screen-captures/vert-manual-home.png>
 Package pdftex.def Info: screen-captures/vert-manual-home.png  used on input li
@@ -691,11 +697,11 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 31--47
 []$$[]$
  []
 
-[28 <./screen-captures/vert-manual-nav.png>]
+[30 <./screen-captures/vert-manual.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-<screen-captures/vert-manual-command.png, id=157, 239.89626pt x 400.49625pt>
+ [31 <./screen-captures/vert-manual-nav.png>]
+<screen-captures/vert-manual-command.png, id=166, 239.89626pt x 400.49625pt>
 File: screen-captures/vert-manual-command.png Graphic file (type png)
 <use screen-captures/vert-manual-command.png>
 Package pdftex.def Info: screen-captures/vert-manual-command.png  used on input
@@ -739,7 +745,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--64
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30 <./screen-captures/vert-manual-home.png>])
+ [32 <./screen-captures/vert-manual-home.png>])
 Underfull \hbox (badness 10000) in paragraph at lines 65--23
 
  []
@@ -747,26 +753,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--23
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31 <./screen-captures/vert-manual-command.png>]
+ [33 <./screen-captures/vert-manual-command.png>]
 \openout2 = `./TeX_files/chapter05.aux'.
 
- (./TeX_files/chapter05.tex [32
+ (./TeX_files/chapter05.tex [34
 
 
 
 ]
 Chapter 5.
-<screen-captures/trans-manual.png, id=169, 797.98125pt x 607.26875pt>
+<screen-captures/trans-manual.png, id=178, 807.015pt x 706.64pt>
 File: screen-captures/trans-manual.png Graphic file (type png)
 <use screen-captures/trans-manual.png>
 Package pdftex.def Info: screen-captures/trans-manual.png  used on input line 5
 .
-(pdftex.def)             Requested size: 195.0pt x 148.3976pt.
+(pdftex.def)             Requested size: 195.0pt x 170.74pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33 <./screen-captures/trans-manual.png (PNG copy)>]
-<screen-captures/trans-manual-nav.png, id=173, 222.8325pt x 576.1525pt>
+ [35]
+<screen-captures/trans-manual-nav.png, id=183, 222.8325pt x 576.1525pt>
 File: screen-captures/trans-manual-nav.png Graphic file (type png)
 <use screen-captures/trans-manual-nav.png>
 Package pdftex.def Info: screen-captures/trans-manual-nav.png  used on input li
@@ -787,11 +793,10 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 31--24
 []$$[]$
  []
 
-[34 <./screen-captures/trans-manual-nav.png>]
+[36 <./screen-captures/trans-manual.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-[36
+ [37 <./screen-captures/trans-manual-nav.png>] [38
 
 
 ]
@@ -802,7 +807,7 @@ No file main.ind.
 Here is how much of TeX's memory you used:
  1574 strings out of 480608
  27244 string characters out of 5905076
- 262917 words of memory out of 5000000
+ 262918 words of memory out of 5000000
  17412 multiletter control sequences out of 15000+600000
  539477 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -814,10 +819,10 @@ pe1/public/amsfonts/cm/cmbxti10.pfb></app/texlive/texmf-dist/fonts/type1/public
 cmr17.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></
 app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></app/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (44 pages, 485688 bytes).
+Output written on main.pdf (46 pages, 489590 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 222 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
