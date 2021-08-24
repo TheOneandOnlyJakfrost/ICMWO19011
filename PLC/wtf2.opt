@@ -51,19 +51,19 @@ BEGIN
  Bar[2]:=
  BEGIN
   BarID:=59414;
-  Pos:="684 5";
+  Pos:="1 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="684 5 1157 185";
+  MRUDockPos:="1 5 1366 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="349976";
+  PctWidth:="1000000";
   MRUFloat:="300 180";
-  MRUHorzDock:="473 180";
+  MRUHorzDock:="1365 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -75,19 +75,20 @@ BEGIN
  Bar[3]:=
  BEGIN
   BarID:=59412;
-  Pos:="1163 5";
+  Visible:=0;
+  Pos:="521 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="1163 5 1366 185";
+  MRUDockPos:="521 5 1009 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="150023";
+  PctWidth:="489314";
   MRUFloat:="300 180";
-  MRUHorzDock:="203 180";
+  MRUHorzDock:="488 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -126,7 +127,7 @@ BEGIN
   BarID:=59413;
   Pos:="0 -2";
   Docking:=1;
-  MRUDockID:=59420;
+  MRUDockID:=0;
   MRUDockPos:="0 -2 300 359";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
@@ -148,19 +149,20 @@ BEGIN
  Bar[6]:=
  BEGIN
   BarID:=59415;
+  Visible:=0;
   Pos:="1 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="1 5 678 185";
+  MRUDockPos:="1 5 85 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="500000";
+  PctWidth:="84972";
   MRUFloat:="300 180";
-  MRUHorzDock:="677 180";
+  MRUHorzDock:="84 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -176,11 +178,61 @@ ProjectTree:=
 BEGIN
  Item[0]:=0;
  Item[1]:=2;
- Item[2]:=135;
- ItemCount:=3;
- Sumcheck:=278;
- Selected:=0;
+ Item[2]:=130;
+ Item[3]:=131;
+ Item[4]:=156;
+ ItemCount:=5;
+ Sumcheck:=267;
+ Selected:=143;
+ ScrollPos:="0 4";
 END;
+Frame[0]:=
+BEGIN
+ Norm:="0052 0052 0930 0416";
+ Min:="-001 -001";
+ Path:="C:\Users\Steven Snow\Documents\icm_docs\BPS_Omron_Saw_Program_Test\REPO\repository\PLC\wtf2.cxp";
+ Access:="PROJECT:!NewProject.Resources.FB source program.Symbols";
+ Type:=3;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=124;
+   Mag:=1;
+   Extra:=
+   BEGIN
+    Type:="CSymbolTableListCtrlState";
+    Style:=1;
+    NumCols:=7;
+    Width[0]:=150;
+    Width[1]:=90;
+    Width[2]:=100;
+    Width[3]:=1;
+    Width[4]:=84;
+    Width[5]:=48;
+    Width[6]:=200;
+   END;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[1]:=
+BEGIN
+ Max:=true;
+ Norm:="0026 0026 0926 0412";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.FB source program.Programs.Main.Sections.Ctl_Auto_Cycle_Sequence!Ctl_Auto_Cycle_Sequence";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=222;
+  END;
+  nViews:=1;
+ END;
+END;
+nFrames:=2;
 WatchWindow:=
 BEGIN
  NumWatch:=3;
@@ -193,32 +245,8 @@ BEGIN
   ColumnWidth[3]:=60;
   ColumnWidth[4]:=60;
   ColumnWidth[5]:=60;
-  NumWatches:=4;
+  NumWatches:=1;
   Watch[0]:=
-  BEGIN
-   PLC:="LQK19011ICM";
-   Reference:="D5005";
-   TypeKnown:=true;
-   Path:="PROJECT:!NewProject.Resources.FB source program.Symbols";
-   Type:=200;
-  END;
-  Watch[1]:=
-  BEGIN
-   PLC:="LQK19011ICM";
-   Reference:="501";
-   TypeKnown:=true;
-   Path:="PROJECT:!NewProject.Resources.FB source program.Symbols";
-   Type:=200;
-  END;
-  Watch[2]:=
-  BEGIN
-   PLC:="LQK19011ICM";
-   Reference:="5000";
-   TypeKnown:=true;
-   Path:="PROJECT:!NewProject.Resources.FB source program.Symbols";
-   Type:=200;
-  END;
-  Watch[3]:=
   BEGIN
   END;
  END;
