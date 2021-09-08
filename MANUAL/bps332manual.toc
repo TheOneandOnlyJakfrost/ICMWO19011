@@ -26,8 +26,8 @@
 \contentsline {section}{\numberline {2.1}Overview}{11}%
 \contentsline {section}{\numberline {2.2}Alarm Screen Details}{12}%
 \contentsline {subsection}{\numberline {2.2.1}Screen Navigation}{12}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{12}%
-\contentsline {subsection}{\numberline {2.2.2}Alarm Recovery Popup Window}{13}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{13}%
+\contentsline {subsection}{\numberline {2.2.2}Alarm Recovery Popup Window}{14}%
 \contentsline {subsection}{\numberline {2.2.3}Alarm Messages and Acknowledge/Reset}{14}%
 \contentsline {section}{\numberline {2.3}Alarms - Listing}{15}%
 \contentsline {section}{\numberline {2.4}Faulted Conditions, Alarms, and the Operator}{18}%

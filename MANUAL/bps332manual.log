@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020' - Flatpak') (preloaded format=pdflatex 2021.3.14)  7 SEP 2021 18:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020' - Flatpak') (preloaded format=pdflatex 2021.3.14)  8 SEP 2021 08:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -236,7 +236,7 @@ File: screen-captures/main/main-saw-info.png Graphic file (type png)
 <use screen-captures/main/main-saw-info.png>
 Package pdftex.def Info: screen-captures/main/main-saw-info.png  used on input 
 line 63.
-(pdftex.def)             Requested size: 195.0pt x 152.49876pt.
+(pdftex.def)             Requested size: 77.99881pt x 60.99782pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -252,7 +252,7 @@ File: screen-captures/main/main-screen-opctl.png Graphic file (type png)
 <use screen-captures/main/main-screen-opctl.png>
 Package pdftex.def Info: screen-captures/main/main-screen-opctl.png  used on in
 put line 81.
-(pdftex.def)             Requested size: 370.49881pt x 164.36621pt.
+(pdftex.def)             Requested size: 292.5pt x 129.76393pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -263,7 +263,7 @@ File: screen-captures/main/main-mode-strt-stp.png Graphic file (type png)
 <use screen-captures/main/main-mode-strt-stp.png>
 Package pdftex.def Info: screen-captures/main/main-mode-strt-stp.png  used on i
 nput line 91.
-(pdftex.def)             Requested size: 370.49881pt x 248.38521pt.
+(pdftex.def)             Requested size: 253.49762pt x 169.94647pt.
  [7 <./screen-captures/main/main-screen-opctl.png>] [8 <./screen-captures/main/
 main-mode-strt-stp.png>]
 <screen-captures/main/main-mach-full-stop.png, id=90, 93.34875pt x 178.6675pt>
@@ -282,7 +282,7 @@ File: screen-captures/alarms/alarms.png Graphic file (type png)
 <use screen-captures/alarms/alarms.png>
 Package pdftex.def Info: screen-captures/alarms/alarms.png  used on input line 
 7.
-(pdftex.def)             Requested size: 195.0pt x 170.74pt.
+(pdftex.def)             Requested size: 292.5pt x 256.11539pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -314,38 +314,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: screen-captures/alarms/alarms-recovery.png Graphic file (type png)
 <use screen-captures/alarms/alarms-recovery.png>
 Package pdftex.def Info: screen-captures/alarms/alarms-recovery.png  used on in
-put line 51.
+put line 49.
 (pdftex.def)             Requested size: 195.0pt x 81.24907pt.
 <screen-captures/alarms/alarms-reset.png, id=111, 773.89125pt x 72.27pt>
 File: screen-captures/alarms/alarms-reset.png Graphic file (type png)
 <use screen-captures/alarms/alarms-reset.png>
 Package pdftex.def Info: screen-captures/alarms/alarms-reset.png  used on input
- line 57.
+ line 56.
 (pdftex.def)             Requested size: 117.00119pt x 10.92604pt.
-
-Overfull \hbox (5.72667pt too wide) in paragraph at lines 62--63
+ [14 <./screen-captures/alarms/alarms-recovery.png>]
+Overfull \hbox (5.72667pt too wide) in paragraph at lines 61--62
  []\OT1/cmr/bx/n/20.74 ![] \OT1/cmr/m/n/12 A fault that is trig-gered must be c
 leared by an Op-er-a-tor ac-knowl-edge(\OT1/cmr/bx/n/12 Ack\OT1/cmr/m/n/12 )
  []
 
-[14 <./screen-captures/alarms/alarms-recovery.png> <./screen-captures/alarms/al
-arms-reset.png>]
-Overfull \hbox (5.68123pt too wide) in paragraph at lines 68--69
+
+Overfull \hbox (5.68123pt too wide) in paragraph at lines 67--68
 []\OT1/cmr/bx/n/12 Cross Travel Alarm \OT1/cmr/m/it/12 Check the Cross Travel D
 rive and Re-set if Faulted.
  []
 
-[15] [16]
-Overfull \hbox (1.79305pt too wide) in paragraph at lines 91--92
+[15 <./screen-captures/alarms/alarms-reset.png>] [16]
+Overfull \hbox (1.79305pt too wide) in paragraph at lines 90--91
 []\OT1/cmr/bx/n/12 Vertical Drive Over-load Alarm \OT1/cmr/m/it/12 Check the Ve
 r-ti-cal Travel Ball Screw
  []
 
-) [17]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-[19]
+[17]) [18] [19]
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex [20
@@ -792,18 +787,18 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  1812 strings out of 480608
  36785 string characters out of 5905076
- 267439 words of memory out of 5000000
+ 265439 words of memory out of 5000000
  17591 multiletter control sequences out of 15000+600000
  539477 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,25p,3161b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,25p,3161b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
 </app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></app/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></app/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></app/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb></app/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsl12.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (74 pages, 707511 bytes).
+Output written on bps332manual.pdf (74 pages, 707825 bytes).
 PDF statistics:
  355 PDF objects out of 1000 (max. 8388607)
  188 compressed objects within 2 object streams
