@@ -1,67 +1,67 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020' - Flatpak') (preloaded format=pdflatex 2021.3.14)  8 SEP 2021 08:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  9 JAN 2023 07:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **bps332manual.tex
 (./bps332manual.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-(/app/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-(/app/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-07>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-(/app/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-(/app/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/app/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/app/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(/app/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/app/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/app/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
 )
-(/app/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
-(/app/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-(/app/texlive/texmf-dist/tex/latex/base/makeidx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
 \@indexfile=\write3
@@ -69,10 +69,10 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 
 
 Writing index file bps332manual.idx
-(/app/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count176
-\l__pdf_internal_box=\box45
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count188
+\l__pdf_internal_box=\box47
 )
 (./bps332manual.aux (./TeX_files/introduction.aux) (./TeX_files/chapter01.aux
 
@@ -103,25 +103,25 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 
-(/app/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count177
-\scratchdimen=\dimen137
-\scratchbox=\box46
-\nofMPsegments=\count178
-\nofMParguments=\count179
+\scratchcounter=\count189
+\scratchdimen=\dimen141
+\scratchbox=\box48
+\nofMPsegments=\count190
+\nofMParguments=\count191
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count180
-\MPscratchDim=\dimen138
-\MPnumerator=\count181
-\makeMPintoPDFobject=\count182
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen142
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
 \everyMPtoPDFconversion=\toks19
-) (/app/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/app/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -129,21 +129,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
- [1
+
+[1
 
 
 
-{/app/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] (./bps332manual.toc
+]
+(./bps332manual.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-
-[3] [4])
+ [3] [4])
 \tf@toc=\write4
 \openout4 = `bps332manual.toc'.
 
@@ -156,25 +157,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [8]
 \openout2 = `./TeX_files/introduction.aux'.
 
- (./TeX_files/introduction.tex
+
+(./TeX_files/introduction.tex
 <screen-captures/main/main-full.png, id=32, 807.015pt x 706.64pt>
 File: screen-captures/main/main-full.png Graphic file (type png)
 <use screen-captures/main/main-full.png>
 Package pdftex.def Info: screen-captures/main/main-full.png  used on input line
  9.
 (pdftex.def)             Requested size: 195.0pt x 170.74pt.
-)
-[9
+) [9
 
 
-] [10 <./screen-captures/main/main-full.png>] [11] [12
+] [10 <./screen-captures/main/main-full.png>]
+[11] [12
+
 
 
 ]
 \openout2 = `./TeX_files/chapter01.aux'.
 
-
-(./TeX_files/chapter01.tex
+ (./TeX_files/chapter01.tex
 Chapter 1.
 File: screen-captures/main/main-full.png Graphic file (type png)
 <use screen-captures/main/main-full.png>
@@ -290,6 +292,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
+
 ]
 <screen-captures/alarms/alarms-nav.png, id=101, 195.73125pt x 172.645pt>
 File: screen-captures/alarms/alarms-nav.png Graphic file (type png)
@@ -344,6 +347,7 @@ r-ti-cal Travel Ball Screw
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex [20
+
 
 
 
@@ -425,6 +429,7 @@ Underfull \vbox (badness 5417) has occurred while \output is active []
 
 
 
+
 ]
 Chapter 4.
 <screen-captures/manual/vert-manual.png, id=175, 807.015pt x 706.64pt>
@@ -488,6 +493,7 @@ nput line 17.
 
 
 
+
 ] [36 <./screen-captures/manual/trans-manual.png> <./screen-captures/manual/tra
 ns-manual-nav.png>]
 Overfull \hbox (0.27379pt too wide) in paragraph at lines 26--27
@@ -541,6 +547,7 @@ line 5.
 Underfull \vbox (badness 3735) has occurred while \output is active []
 
  [39
+
 
 
 
@@ -598,6 +605,7 @@ n input line 59.
 
 
 
+
 ]
 Chapter 7.
 <screen-captures/program/pgm-saw-info.png, id=249, 807.015pt x 706.64pt>
@@ -645,6 +653,7 @@ am/pgm-saw-info-entry.png>]
 
 
 (./TeX_files/chapter08.tex [48
+
 
 
 
@@ -704,6 +713,7 @@ t line 58.
 \openout2 = `./TeX_files/chapter09.aux'.
 
  (./TeX_files/chapter09.tex [54
+
 
 
 
@@ -767,9 +777,11 @@ m.png>] [59]
 
 
 
+
 ]
 Chapter 10.
 ) [61] [62
+
 
 
 ]
@@ -785,20 +797,21 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1812 strings out of 480608
- 36785 string characters out of 5905076
- 265439 words of memory out of 5000000
- 17591 multiletter control sequences out of 15000+600000
- 539477 words of font info for 47 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 30i,7n,25p,3161b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
-</app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></app/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></app/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></app/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb></app/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsl12.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (74 pages, 707825 bytes).
+ 2032 strings out of 480806
+ 46361 string characters out of 5905151
+ 318699 words of memory out of 6000000
+ 19300 multiletter control sequences out of 15000+600000
+ 410569 words of font info for 50 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 55i,7n,62p,3170b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on bps332manual.pdf (74 pages, 707742 bytes).
 PDF statistics:
  355 PDF objects out of 1000 (max. 8388607)
  188 compressed objects within 2 object streams

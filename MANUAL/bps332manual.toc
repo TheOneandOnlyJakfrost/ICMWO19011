@@ -1,113 +1,113 @@
-\contentsline {chapter}{Introduction}{ix}%
-\contentsline {section}{\numberline {0.1}Manual Overview}{ix}%
-\contentsline {paragraph}{}{ix}%
-\contentsline {paragraph}{}{ix}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{ix}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{ix}%
-\contentsline {subsection}{\numberline {0.1.1}Screen Layout Style}{x}%
-\contentsline {chapter}{\numberline {1}The Main Screen}{1}%
-\contentsline {section}{\numberline {1.1}Overview}{1}%
-\contentsline {section}{\numberline {1.2}Main Screen Details}{2}%
-\contentsline {subsection}{\numberline {1.2.1}Screen Navigation}{2}%
-\contentsline {paragraph}{Navigation}{2}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{3}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{3}%
-\contentsline {subsection}{\numberline {1.2.2}Operator Message Centre and Axis Position}{4}%
-\contentsline {paragraph}{The}{4}%
-\contentsline {subsection}{\numberline {1.2.3}Saw Information}{5}%
-\contentsline {subsection}{\numberline {1.2.4}Program Details}{6}%
-\contentsline {subsection}{\numberline {1.2.5}Operation Control}{7}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{( i )}}}{7}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{(!)}}}}{7}%
-\contentsline {subsubsection}{Mode Set}{8}%
-\contentsline {subsubsection}{Cycle Stop}{9}%
-\contentsline {subsubsection}{Machine Full Stop}{9}%
-\contentsline {chapter}{\numberline {2}The Alarm Screen}{11}%
-\contentsline {section}{\numberline {2.1}Overview}{11}%
-\contentsline {section}{\numberline {2.2}Alarm Screen Details}{12}%
-\contentsline {subsection}{\numberline {2.2.1}Screen Navigation}{12}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{13}%
-\contentsline {subsection}{\numberline {2.2.2}Alarm Recovery Popup Window}{14}%
-\contentsline {subsection}{\numberline {2.2.3}Alarm Messages and Acknowledge/Reset}{14}%
-\contentsline {section}{\numberline {2.3}Alarms - Listing}{15}%
-\contentsline {section}{\numberline {2.4}Faulted Conditions, Alarms, and the Operator}{18}%
-\contentsline {chapter}{\numberline {3}Manual Screen}{21}%
-\contentsline {section}{\numberline {3.1}Overview}{21}%
-\contentsline {section}{\numberline {3.2}Manual Screen Details}{22}%
-\contentsline {subsection}{\numberline {3.2.1}Screen Navigation}{22}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{23}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{23}%
-\contentsline {subsection}{\numberline {3.2.2}Home All Function}{24}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{25}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{25}%
-\contentsline {subsection}{\numberline {3.2.3}Lazer}{26}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{26}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{26}%
-\contentsline {subsection}{\numberline {3.2.4}Water}{27}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{27}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{27}%
-\contentsline {subsection}{\numberline {3.2.5}Saw}{28}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{28}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{29}%
-\contentsline {chapter}{\numberline {4}Vertical Manual Screen}{31}%
-\contentsline {section}{\numberline {4.1}Overview}{31}%
-\contentsline {section}{\numberline {4.2}Details}{32}%
-\contentsline {subsection}{\numberline {4.2.1}Screen Navigation}{32}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{33}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{33}%
-\contentsline {subsection}{\numberline {4.2.2}Vertical Home}{33}%
-\contentsline {subsection}{\numberline {4.2.3}Vertical Travel}{34}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{34}%
-\contentsline {chapter}{\numberline {5}Cross Travel Manual Screen}{35}%
-\contentsline {section}{\numberline {5.1}Overview}{35}%
-\contentsline {section}{\numberline {5.2}Details}{35}%
-\contentsline {subsection}{\numberline {5.2.1}Screen Navigation}{35}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{37}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{37}%
-\contentsline {subsection}{\numberline {5.2.2}Cross Travel Home}{37}%
-\contentsline {subsection}{\numberline {5.2.3}Cross Travel Positioning}{38}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{38}%
-\contentsline {chapter}{\numberline {6}Long Travel Manual Screen}{39}%
-\contentsline {section}{\numberline {6.1}Overview}{39}%
-\contentsline {section}{\numberline {6.2}Details}{39}%
-\contentsline {subsection}{\numberline {6.2.1}Screen Navigation}{40}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{40}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{40}%
-\contentsline {subsection}{\numberline {6.2.2}Long Travel Home and To Limit}{41}%
-\contentsline {subsection}{\numberline {6.2.3}Long Travel Positioning}{43}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{43}%
-\contentsline {chapter}{\numberline {7}Programming - Saw Parameters Screen}{45}%
-\contentsline {section}{\numberline {7.1}Overview}{45}%
-\contentsline {section}{\numberline {7.2}Details}{45}%
-\contentsline {subsection}{\numberline {7.2.1}Screen Navigation}{46}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}%
-\contentsline {subsection}{\numberline {7.2.2}Saw Parameters}{47}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{47}%
-\contentsline {chapter}{\numberline {8}Programming - Block Program}{49}%
-\contentsline {section}{\numberline {8.1}Overview}{49}%
-\contentsline {section}{\numberline {8.2}Details}{49}%
-\contentsline {subsection}{\numberline {8.2.1}Screen Navigation}{50}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{50}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{50}%
-\contentsline {subsection}{\numberline {8.2.2}Block Details}{51}%
-\contentsline {paragraph}{}{52}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{52}%
-\contentsline {subsection}{\numberline {8.2.3}Slab Details}{53}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{53}%
-\contentsline {chapter}{\numberline {9}Programming - Check Program}{55}%
-\contentsline {section}{\numberline {9.1}Overview}{55}%
-\contentsline {section}{\numberline {9.2}Details}{55}%
-\contentsline {subsection}{\numberline {9.2.1}Screen Navigation}{56}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}%
-\contentsline {subsection}{\numberline {9.2.2}Block Details}{57}%
-\contentsline {paragraph}{}{57}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{57}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{58}%
-\contentsline {subsection}{\numberline {9.2.3}Cycle Reset and Program Clear}{58}%
-\contentsline {paragraph}{PROGRAM CLEAR}{58}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{59}%
-\contentsline {chapter}{\numberline {10}Programming - General Guidelines}{61}%
-\contentsline {section}{\numberline {10.1}Best Practices}{61}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{61}%
+\contentsline {chapter}{Introduction}{ix}{}%
+\contentsline {section}{\numberline {0.1}Manual Overview}{ix}{}%
+\contentsline {paragraph}{}{ix}{}%
+\contentsline {paragraph}{}{ix}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{ix}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{ix}{}%
+\contentsline {subsection}{\numberline {0.1.1}Screen Layout Style}{x}{}%
+\contentsline {chapter}{\numberline {1}The Main Screen}{1}{}%
+\contentsline {section}{\numberline {1.1}Overview}{1}{}%
+\contentsline {section}{\numberline {1.2}Main Screen Details}{2}{}%
+\contentsline {subsection}{\numberline {1.2.1}Screen Navigation}{2}{}%
+\contentsline {paragraph}{Navigation}{2}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{3}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{3}{}%
+\contentsline {subsection}{\numberline {1.2.2}Operator Message Centre and Axis Position}{4}{}%
+\contentsline {paragraph}{The}{4}{}%
+\contentsline {subsection}{\numberline {1.2.3}Saw Information}{5}{}%
+\contentsline {subsection}{\numberline {1.2.4}Program Details}{6}{}%
+\contentsline {subsection}{\numberline {1.2.5}Operation Control}{7}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{( i )}}}{7}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{(!)}}}}{7}{}%
+\contentsline {subsubsection}{Mode Set}{8}{}%
+\contentsline {subsubsection}{Cycle Stop}{9}{}%
+\contentsline {subsubsection}{Machine Full Stop}{9}{}%
+\contentsline {chapter}{\numberline {2}The Alarm Screen}{11}{}%
+\contentsline {section}{\numberline {2.1}Overview}{11}{}%
+\contentsline {section}{\numberline {2.2}Alarm Screen Details}{12}{}%
+\contentsline {subsection}{\numberline {2.2.1}Screen Navigation}{12}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{13}{}%
+\contentsline {subsection}{\numberline {2.2.2}Alarm Recovery Popup Window}{14}{}%
+\contentsline {subsection}{\numberline {2.2.3}Alarm Messages and Acknowledge/Reset}{14}{}%
+\contentsline {section}{\numberline {2.3}Alarms - Listing}{15}{}%
+\contentsline {section}{\numberline {2.4}Faulted Conditions, Alarms, and the Operator}{18}{}%
+\contentsline {chapter}{\numberline {3}Manual Screen}{21}{}%
+\contentsline {section}{\numberline {3.1}Overview}{21}{}%
+\contentsline {section}{\numberline {3.2}Manual Screen Details}{22}{}%
+\contentsline {subsection}{\numberline {3.2.1}Screen Navigation}{22}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{23}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{23}{}%
+\contentsline {subsection}{\numberline {3.2.2}Home All Function}{24}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{25}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{25}{}%
+\contentsline {subsection}{\numberline {3.2.3}Lazer}{26}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{26}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{26}{}%
+\contentsline {subsection}{\numberline {3.2.4}Water}{27}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{27}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{27}{}%
+\contentsline {subsection}{\numberline {3.2.5}Saw}{28}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{28}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{29}{}%
+\contentsline {chapter}{\numberline {4}Vertical Manual Screen}{31}{}%
+\contentsline {section}{\numberline {4.1}Overview}{31}{}%
+\contentsline {section}{\numberline {4.2}Details}{32}{}%
+\contentsline {subsection}{\numberline {4.2.1}Screen Navigation}{32}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{33}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{33}{}%
+\contentsline {subsection}{\numberline {4.2.2}Vertical Home}{33}{}%
+\contentsline {subsection}{\numberline {4.2.3}Vertical Travel}{34}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{34}{}%
+\contentsline {chapter}{\numberline {5}Cross Travel Manual Screen}{35}{}%
+\contentsline {section}{\numberline {5.1}Overview}{35}{}%
+\contentsline {section}{\numberline {5.2}Details}{35}{}%
+\contentsline {subsection}{\numberline {5.2.1}Screen Navigation}{35}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{37}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{37}{}%
+\contentsline {subsection}{\numberline {5.2.2}Cross Travel Home}{37}{}%
+\contentsline {subsection}{\numberline {5.2.3}Cross Travel Positioning}{38}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{38}{}%
+\contentsline {chapter}{\numberline {6}Long Travel Manual Screen}{39}{}%
+\contentsline {section}{\numberline {6.1}Overview}{39}{}%
+\contentsline {section}{\numberline {6.2}Details}{39}{}%
+\contentsline {subsection}{\numberline {6.2.1}Screen Navigation}{40}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{40}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{40}{}%
+\contentsline {subsection}{\numberline {6.2.2}Long Travel Home and To Limit}{41}{}%
+\contentsline {subsection}{\numberline {6.2.3}Long Travel Positioning}{43}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{43}{}%
+\contentsline {chapter}{\numberline {7}Programming - Saw Parameters Screen}{45}{}%
+\contentsline {section}{\numberline {7.1}Overview}{45}{}%
+\contentsline {section}{\numberline {7.2}Details}{45}{}%
+\contentsline {subsection}{\numberline {7.2.1}Screen Navigation}{46}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}{}%
+\contentsline {subsection}{\numberline {7.2.2}Saw Parameters}{47}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{47}{}%
+\contentsline {chapter}{\numberline {8}Programming - Block Program}{49}{}%
+\contentsline {section}{\numberline {8.1}Overview}{49}{}%
+\contentsline {section}{\numberline {8.2}Details}{49}{}%
+\contentsline {subsection}{\numberline {8.2.1}Screen Navigation}{50}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{50}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{50}{}%
+\contentsline {subsection}{\numberline {8.2.2}Block Details}{51}{}%
+\contentsline {paragraph}{}{52}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{52}{}%
+\contentsline {subsection}{\numberline {8.2.3}Slab Details}{53}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{53}{}%
+\contentsline {chapter}{\numberline {9}Programming - Check Program}{55}{}%
+\contentsline {section}{\numberline {9.1}Overview}{55}{}%
+\contentsline {section}{\numberline {9.2}Details}{55}{}%
+\contentsline {subsection}{\numberline {9.2.1}Screen Navigation}{56}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}{}%
+\contentsline {subsection}{\numberline {9.2.2}Block Details}{57}{}%
+\contentsline {paragraph}{}{57}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{57}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{58}{}%
+\contentsline {subsection}{\numberline {9.2.3}Cycle Reset and Program Clear}{58}{}%
+\contentsline {paragraph}{PROGRAM CLEAR}{58}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{59}{}%
+\contentsline {chapter}{\numberline {10}Programming - General Guidelines}{61}{}%
+\contentsline {section}{\numberline {10.1}Best Practices}{61}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{61}{}%
