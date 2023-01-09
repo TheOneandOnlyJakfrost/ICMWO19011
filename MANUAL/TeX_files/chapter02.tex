@@ -3,7 +3,7 @@
 The Alarm Screen is the screen the Operator uses to diagnose the Saw when it is in a Faulted State. It will provide information to the Operator about the nature of the Fault, and allow for acknowledgement of the faulted state by the Operator.
 \begin{figure}
 	\centering
-	\includegraphics[width=0.5
+	\includegraphics[width=0.75
 	\linewidth]{screen-captures/alarms/alarms}
 	\caption{Alarm Screen}
 	\label{fig:alarm-screen}
@@ -44,14 +44,13 @@ The Menu Key located on the terminal at the lower left below the FKey's, will re
 	\item \textbf{Skip Block}
 \end{list}
 The \textit{Alarm Recovery Popup Window} shown in Figure 2.3 will offer the Operator options on how to proceed from the alarmed condition back into running in automatic. If \textit{Continue} is chosen, the Operator would then reset the alarm and restart the automatic cycle and the saw will continue from the current location. This option relies on the Operator assessment of the safety to the equipment if starting from that particular state. By choosing to \textit{Skip Cut} the Operator is deciding to move onto the next cut location for the existing block being worked on by the program. This option will skip to the next cut location of the slab size being cut at the time of the faulted condition occurring. \textit{Skip Block} by extension is used to skip the current block and begin the cycle at the next block first cut location. This offers options to the Operator on how they wish to recover based on the condition of the bed of material and the saw itself.
-\pagebreak
-\subsection{Alarm Messages and Acknowledge/Reset} \paragraph*{The}\textbf{\textit{Alarm Reset}} pushbutton or the \textbf{\textit{Alarm Acknowledge Button}} are how the Operator acknowledges a Fault to clear it. The Operator \textbf{must} acknowledge \textbf{all} Faults in order to clear them. Faults must be cleared before the Operator can change the Saw into \textit{Auto Mode}. A number of faults clear whenever the faulted condition(s) are no longer present, these will remain until Acknowledged/Reset, but will change colour to reflect their state (to blue from red). If the fault is acknowledged but still active it will display in amber/yellow. Currently 100 fault lines can be displayed at one time. 
 \begin{figure}
 	\centering
 	\includegraphics[width=.5\linewidth]{screen-captures/alarms/alarms-recovery}
 	\caption{Alarm Recovery Popup Window}
 	\label{fig:alarm-recovery}
 \end{figure}
+\subsection{Alarm Messages and Acknowledge/Reset} \paragraph*{The}\textbf{\textit{Alarm Reset}} pushbutton or the \textbf{\textit{Alarm Acknowledge Button}} are how the Operator acknowledges a Fault to clear it. The Operator \textbf{must} acknowledge \textbf{all} Faults in order to clear them. Faults must be cleared before the Operator can change the Saw into \textit{Auto Mode}. A number of faults clear whenever the faulted condition(s) are no longer present, these will remain until Acknowledged/Reset, but will change colour to reflect their state (to blue from red). If the fault is acknowledged but still active it will display in amber/yellow. Currently 100 fault lines can be displayed at one time. 
 \begin{figure}
 	\centering
 	\includegraphics[width=.3\linewidth]{screen-captures/alarms/alarms-reset}
