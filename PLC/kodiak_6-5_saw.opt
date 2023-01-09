@@ -52,19 +52,19 @@ BEGIN
  BEGIN
   BarID:=59414;
   Visible:=0;
-  Pos:="508 5";
+  Pos:="1 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="508 5 1009 185";
+  MRUDockPos:="1 5 1009 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="500000";
+  PctWidth:="1000000";
   MRUFloat:="300 180";
-  MRUHorzDock:="501 180";
+  MRUHorzDock:="1008 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -77,19 +77,19 @@ BEGIN
  BEGIN
   BarID:=59412;
   Visible:=0;
-  Pos:="1 5";
+  Pos:="734 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="1 5 1366 90";
+  MRUDockPos:="734 5 1009 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="1000000";
+  PctWidth:="276095";
   MRUFloat:="300 180";
-  MRUHorzDock:="1365 85";
+  MRUHorzDock:="275 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -114,7 +114,7 @@ BEGIN
   MDIChild:=0;
   PctWidth:="500000";
   MRUFloat:="300 180";
-  MRUHorzDock:="501 85";
+  MRUHorzDock:="501 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -152,7 +152,7 @@ BEGIN
   BarID:=59415;
   Pos:="1 5";
   Docking:=1;
-  MRUDockID:=59422;
+  MRUDockID:=0;
   MRUDockPos:="1 5 1366 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
@@ -303,14 +303,13 @@ Frame[8]:=
 BEGIN
  Norm:="0104 0104 1059 0359";
  Min:="-001 -001";
- Path:="C:\Users\Steven Snow\Documents\icm_docs\BPS_Omron_Saw_Program_Test\PLC\kodiak_6-5_saw.cxp";
+ Path:="C:\Users\Steven Snow\Documents\icm_docs\BPS_Omron_Saw_Program_Test\REPO\repository\PLC\kodiak_6-5_saw.cxp";
  Access:="PROJECT:!NewProject.Resources.NewResource1.Symbols";
  Type:=3;
  Views:=
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=161;
    Mag:=1;
    Extra:=
    BEGIN
