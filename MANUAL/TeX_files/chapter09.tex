@@ -11,20 +11,22 @@
 	\item \textbf{Screen Navigation}
 	\item \textbf{Block Details}
 	\item \textbf{Cycle Reset and Program Clear}
+	\item \textbf{Set Max Cross Speed}
 \end{list}
 \pagebreak
 \subsection{Screen Navigation}
 \paragraph*{Is}performed by using the programmable Function Keys (FKeys) located down the left hand side of the OI Terminal (refer to Figure 9.2). Since this screen, and subsequent 	\textbf{\textit{CHECK PROGRAM}} screens are sub-screens of the \textbf{\textit{BLOCK PROGRAM}} screen, except for navigating to the \textbf{\textit{ALARM}} screen, navigation is from \textit{current screen} to \textit{next or previous screens}.The Operator may navigate to the following screens ...
 \begin{list}{$\diamond$}{}
 	\item \textbf{GOTO ALARM} Navigate to Alarm Screen.
+	\item \textbf{SET MAX CROSS SPEED} Navigate to Cross Travel Global Speed Override screen.
 	\item \textbf{NEXT} Navigate to next Check Program Screen.
 	\item \textbf{PREV} Navigate to Block Program Screen, or if on Check Program Screen num 2 or higher, return to previous Check Program Screen.
 \end{list}
 \begin{figure}
 	\centering
-	\includegraphics[width=0.2\linewidth]{screen-captures/program/cut-pgm-nav}
+	\includegraphics[width=0.2\linewidth]{screen-captures/program/pgm-review1-nav}
 	\caption{Block Program Screen Navigation}
-	\label{fig:cut-pgm-screen-nav}
+	\label{fig:pgm-reveiw1-nav}
 \end{figure}
 \paragraph{\textbf{\LARGE \textcolor{blue}{i}}}
 The Menu Key located on the terminal at the lower left below the FKey's, will return the Operator to the Main Screen, from all other screens.\\
@@ -60,4 +62,16 @@ The Menu Key located on the terminal at the lower left below the FKey's, will re
 	\caption{Check Program - Clear Program Contents Button}
 	\label{fig:pgm-clr}
 \end{figure}
-\paragraph{\textbf{\LARGE \textcolor{blue}{i}}}The Operator will be prompted by an accept or cancel popup, to either accept clearing the program, or resetting the sequence, or cancel the operation. This is an immediate action and cannot be undone.
+\paragraph{\textbf{\LARGE \textcolor{blue}{i}}}The Operator will be prompted by an \textit{accept or cancel popup}, to either \textsl{accept clearing the program}, or \textsl{resetting the sequence}, or \textsl{cancel the operation}. This is an \textbf{immediate action} and \textbf{cannot be undone}.
+\subsection{Set Max Cross Speed}\paragraph*{Cross Travel Speed Override}capability is intended to be used when the Operator desires to limit the cutting speed of the saw during automatic operation. It's primary function is to provide the ability to \emph{run in} the newly installed segments of the saw blade. When selecting this navigation key it will open the \textbf{\textit{Set Maximum Cross Travel Speed}} screen (Fig. 9.6).
+
+\paragraph{\textbf{\LARGE \textcolor{blue}{i}}}The Operator will be able to Enable/Disable the Cross Travel Speed Override and set the Maximum Cross Travel Speed from the \textbf{\textit{Set Maximum Cross Travel Speed}} screen when they select this Navigation Key.
+
+\subsection{Set Maximum Cross Travel Speed Screen}\paragraph*{Enable/Disable Speed Override}referring to Figure 9.6 Speed Override is achieved by pressing the toggle button provided on the screen. The toggle has a corresponding state indicator to show whether it is enabled or disabled at the present time. The Operator can also set the speed limit of the override which is represented in feet per minute. Simply pressing the number displayed will open a setting keypad onscreen to use for entry.
+\begin{figure}
+	\centering
+	\includegraphics[width=.8\linewidth]{screen-captures/program/global_speed}
+	\caption{Cross Travel Speed Override Screen}
+	\label{fig:global_speed}
+\end{figure}
+\paragraph{\textbf{\LARGE \textcolor{blue}{i}}}The Operator will be able to use this setting to limit maximum speed of the Cross Travel motion during cutting operations. This is an \textit{Immediate Acting} setting which directly affects the speed which the saw blade moves through the stone. The indicator takes time to update it's state on the display screen, even though it has changed state, this is a result of the communication between the PLC and HMI

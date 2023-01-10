@@ -5,5 +5,5 @@
 	\item \textbf{Clear Block Program}
 	\item \textbf{Home Saw}
 \end{list}
-This will ensure the system is ready to start "fresh" with a new program to execute (once the Operator enters it).
-\paragraph{\textbf{\LARGE \textcolor{blue}{i}}}The Operator will be prompted by an accept or cancel popup, to either accept clearing the program, or resetting the sequence, or cancel the operation. This is an immediate action and cannot be undone.
+This will ensure the system is ready to start "fresh" with a new program to execute (once the Operator enters it). 
+\paragraph{\textbf{\LARGE \textcolor{blue}{i}}}It is also good practice to take the time during any settings changes, either program type, or operation type, to allow for the communication process between the PLC and HMI to complete. In the case of most settings there is a standard request for change then change complete response which takes place. This causes what appears to be delays from the point of view of the Operator. Although this time is merely seconds at worst, when in the "heat" of work, and pressed for time, it may seem to drag on.

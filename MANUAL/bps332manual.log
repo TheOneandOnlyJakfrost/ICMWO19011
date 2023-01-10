@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  9 JAN 2023 07:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  10 JAN 2023 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -81,11 +81,8 @@ LaTeX Warning: Label `fig:main-msg-cntr' multiply defined.
 ) (./TeX_files/chapter02.aux) (./TeX_files/chapter03.aux)
 (./TeX_files/chapter04.aux) (./TeX_files/chapter05.aux)
 (./TeX_files/chapter06.aux) (./TeX_files/chapter07.aux)
-(./TeX_files/chapter08.aux) (./TeX_files/chapter09.aux
-
-LaTeX Warning: Label `fig:cut-pgm-screen-nav' multiply defined.
-
-) (./TeX_files/chapter10.aux))
+(./TeX_files/chapter08.aux) (./TeX_files/chapter09.aux)
+(./TeX_files/chapter10.aux))
 \openout1 = `bps332manual.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -608,17 +605,14 @@ n input line 59.
 
 ]
 Chapter 7.
-<screen-captures/program/pgm-saw-info.png, id=249, 807.015pt x 706.64pt>
+<screen-captures/program/pgm-saw-info.png, id=249, 789.95125pt x 611.28375pt>
 File: screen-captures/program/pgm-saw-info.png Graphic file (type png)
 <use screen-captures/program/pgm-saw-info.png>
 Package pdftex.def Info: screen-captures/program/pgm-saw-info.png  used on inpu
 t line 5.
-(pdftex.def)             Requested size: 195.0pt x 170.74pt.
-
-Underfull \vbox (badness 5667) has occurred while \output is active []
-
- [45]
-Overfull \hbox (0.27379pt too wide) in paragraph at lines 21--22
+(pdftex.def)             Requested size: 195.0pt x 150.88979pt.
+[45]
+Overfull \hbox (0.27379pt too wide) in paragraph at lines 22--23
 []\OT1/cmr/bx/n/12 VERTICAL MAN-UAL \OT1/cmr/m/n/12 Nav-i-gate to Ver-ti-cal Ma
 n-ual Con-trol Screen. 
  []
@@ -628,14 +622,14 @@ n-ual Con-trol Screen.
 File: screen-captures/program/pgm-saw-info-nav.png Graphic file (type png)
 <use screen-captures/program/pgm-saw-info-nav.png>
 Package pdftex.def Info: screen-captures/program/pgm-saw-info-nav.png  used on 
-input line 27.
+input line 28.
 (pdftex.def)             Requested size: 77.99881pt x 188.24324pt.
 File: screen-captures/menu.png Graphic file (type png)
 <use screen-captures/menu.png>
-Package pdftex.def Info: screen-captures/menu.png  used on input line 35.
+Package pdftex.def Info: screen-captures/menu.png  used on input line 36.
 (pdftex.def)             Requested size: 56.9055pt x 41.73108pt.
 
-Overfull \hbox (36.79132pt too wide) in paragraph at lines 32--41
+Overfull \hbox (36.79132pt too wide) in paragraph at lines 33--42
 []$$[]$
  []
 
@@ -645,21 +639,25 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 32--41
 File: screen-captures/program/pgm-saw-info-entry.png Graphic file (type png)
 <use screen-captures/program/pgm-saw-info-entry.png>
 Package pdftex.def Info: screen-captures/program/pgm-saw-info-entry.png  used o
-n input line 44.
+n input line 45.
 (pdftex.def)             Requested size: 77.99881pt x 26.4103pt.
-) [47 <./screen-captures/program/pgm-saw-info-nav.png> <./screen-captures/progr
-am/pgm-saw-info-entry.png>]
+<screen-captures/program/pgm-cross-travel-spd-or.png, id=259, 374.39874pt x 47.
+17625pt>
+File: screen-captures/program/pgm-cross-travel-spd-or.png Graphic file (type pn
+g)
+<use screen-captures/program/pgm-cross-travel-spd-or.png>
+Package pdftex.def Info: screen-captures/program/pgm-cross-travel-spd-or.png  u
+sed on input line 53.
+(pdftex.def)             Requested size: 77.99881pt x 9.82811pt.
+ [47 <./screen-captures/program/pgm-saw-info-nav.png> <./screen-captures/progra
+m/pgm-saw-info-entry.png>])
+[48 <./screen-captures/program/pgm-cross-travel-spd-or.png>]
 \openout2 = `./TeX_files/chapter08.aux'.
 
 
-(./TeX_files/chapter08.tex [48
-
-
-
-
-]
+(./TeX_files/chapter08.tex
 Chapter 8.
-<screen-captures/program/cut-pgm.png, id=267, 807.015pt x 706.64pt>
+<screen-captures/program/cut-pgm.png, id=269, 807.015pt x 706.64pt>
 File: screen-captures/program/cut-pgm.png Graphic file (type png)
 <use screen-captures/program/cut-pgm.png>
 Package pdftex.def Info: screen-captures/program/cut-pgm.png  used on input lin
@@ -668,13 +666,18 @@ e 5.
 
 Underfull \vbox (badness 3977) has occurred while \output is active []
 
- [49]
+ [49
+
+
+
+
+]
 Overfull \hbox (0.27379pt too wide) in paragraph at lines 22--23
 []\OT1/cmr/bx/n/12 VERTICAL MAN-UAL \OT1/cmr/m/n/12 Nav-i-gate to Ver-ti-cal Ma
 n-ual Con-trol Screen. 
  []
 
-<screen-captures/program/cut-pgm-nav.png, id=272, 252.945pt x 706.64pt>
+<screen-captures/program/cut-pgm-nav.png, id=274, 252.945pt x 706.64pt>
 File: screen-captures/program/cut-pgm-nav.png Graphic file (type png)
 <use screen-captures/program/cut-pgm-nav.png>
 Package pdftex.def Info: screen-captures/program/cut-pgm-nav.png  used on input
@@ -690,7 +693,7 @@ Overfull \hbox (36.79132pt too wide) in paragraph at lines 33--42
  []
 
 [50 <./screen-captures/program/cut-pgm.png>]
-<screen-captures/program/cut-pgm-block.png, id=277, 518.93875pt x 212.795pt>
+<screen-captures/program/cut-pgm-block.png, id=279, 518.93875pt x 212.795pt>
 File: screen-captures/program/cut-pgm-block.png Graphic file (type png)
 <use screen-captures/program/cut-pgm-block.png>
 Package pdftex.def Info: screen-captures/program/cut-pgm-block.png  used on inp
@@ -703,7 +706,7 @@ Underfull \vbox (badness 8170) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [52 <./screen-captures/program/cut-pgm-block.png>]
-<screen-captures/program/cut-pgm-slab.png, id=286, 526.96875pt x 250.9375pt>
+<screen-captures/program/cut-pgm-slab.png, id=288, 526.96875pt x 250.9375pt>
 File: screen-captures/program/cut-pgm-slab.png Graphic file (type png)
 <use screen-captures/program/cut-pgm-slab.png>
 Package pdftex.def Info: screen-captures/program/cut-pgm-slab.png  used on inpu
@@ -719,68 +722,82 @@ t line 58.
 
 ]
 Chapter 9.
-<screen-captures/program/pgm_review1.png, id=294, 807.015pt x 706.64pt>
+<screen-captures/program/pgm_review1.png, id=296, 791.95876pt x 608.2725pt>
 File: screen-captures/program/pgm_review1.png Graphic file (type png)
 <use screen-captures/program/pgm_review1.png>
 Package pdftex.def Info: screen-captures/program/pgm_review1.png  used on input
  line 5.
-(pdftex.def)             Requested size: 195.0pt x 170.74pt.
+(pdftex.def)             Requested size: 195.0pt x 149.76595pt.
 
-Underfull \vbox (badness 3735) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
-File: screen-captures/program/cut-pgm-nav.png Graphic file (type png)
-<use screen-captures/program/cut-pgm-nav.png>
-Package pdftex.def Info: screen-captures/program/cut-pgm-nav.png  used on input
- line 25.
-(pdftex.def)             Requested size: 77.99881pt x 217.9024pt.
+ [55 <./screen-captures/program/pgm_review1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+<screen-captures/program/pgm-review1-nav.png, id=305, 196.735pt x 590.205pt>
+File: screen-captures/program/pgm-review1-nav.png Graphic file (type png)
+<use screen-captures/program/pgm-review1-nav.png>
+Package pdftex.def Info: screen-captures/program/pgm-review1-nav.png  used on i
+nput line 27.
+(pdftex.def)             Requested size: 77.99881pt x 233.98846pt.
 File: screen-captures/menu.png Graphic file (type png)
 <use screen-captures/menu.png>
-Package pdftex.def Info: screen-captures/menu.png  used on input line 33.
+Package pdftex.def Info: screen-captures/menu.png  used on input line 35.
 (pdftex.def)             Requested size: 56.9055pt x 41.73108pt.
 
-Overfull \hbox (36.79132pt too wide) in paragraph at lines 30--39
+Overfull \hbox (36.79132pt too wide) in paragraph at lines 32--41
 []$$[]$
  []
 
-[56 <./screen-captures/program/pgm_review1.png>]
-<screen-captures/program/pgm_review1-block-data.png, id=303, 572.1375pt x 343.2
+[57 <./screen-captures/program/pgm-review1-nav.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
+<screen-captures/program/pgm_review1-block-data.png, id=313, 572.1375pt x 343.2
 825pt>
 File: screen-captures/program/pgm_review1-block-data.png Graphic file (type png
 )
 <use screen-captures/program/pgm_review1-block-data.png>
 Package pdftex.def Info: screen-captures/program/pgm_review1-block-data.png  us
-ed on input line 43.
+ed on input line 45.
 (pdftex.def)             Requested size: 195.0pt x 116.99734pt.
- [57]
-<screen-captures/program/pgm_review1-aut-rst.png, id=307, 209.78375pt x 94.3525
+<screen-captures/program/pgm_review1-aut-rst.png, id=314, 209.78375pt x 94.3525
 pt>
 File: screen-captures/program/pgm_review1-aut-rst.png Graphic file (type png)
 <use screen-captures/program/pgm_review1-aut-rst.png>
 Package pdftex.def Info: screen-captures/program/pgm_review1-aut-rst.png  used 
-on input line 52.
+on input line 54.
 (pdftex.def)             Requested size: 77.99881pt x 35.07974pt.
-<screen-captures/program/pgm_review1-clr-pgm.png, id=308, 539.01375pt x 68.255p
+
+[59 <./screen-captures/program/pgm_review1-block-data.png>]
+<screen-captures/program/pgm_review1-clr-pgm.png, id=319, 539.01375pt x 68.255p
 t>
 File: screen-captures/program/pgm_review1-clr-pgm.png Graphic file (type png)
 <use screen-captures/program/pgm_review1-clr-pgm.png>
 Package pdftex.def Info: screen-captures/program/pgm_review1-clr-pgm.png  used 
-on input line 59.
+on input line 61.
 (pdftex.def)             Requested size: 117.00119pt x 14.81512pt.
-) [58 <./screen-captures/program/pgm_review1-block-data.png> <./screen-captures
-/program/pgm_review1-aut-rst.png> <./screen-captures/program/pgm_review1-clr-pg
-m.png>] [59]
+<screen-captures/program/global_speed.png, id=320, 796.9775pt x 613.29124pt>
+File: screen-captures/program/global_speed.png Graphic file (type png)
+<use screen-captures/program/global_speed.png>
+Package pdftex.def Info: screen-captures/program/global_speed.png  used on inpu
+t line 73.
+(pdftex.def)             Requested size: 312.00119pt x 240.09035pt.
+ [60 <./screen-captures/program/pgm_review1-aut-rst.png> <./screen-captures/pro
+gram/pgm_review1-clr-pgm.png>]) [61 <./screen-captures/program/global_speed.png
+>]
 \openout2 = `./TeX_files/chapter10.aux'.
 
 
-(./TeX_files/chapter10.tex [60
+(./TeX_files/chapter10.tex [62
 
 
 
 
 ]
 Chapter 10.
-) [61] [62
+) [63] [64
 
 
 
@@ -797,10 +814,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2032 strings out of 480806
- 46361 string characters out of 5905151
- 318699 words of memory out of 6000000
- 19300 multiletter control sequences out of 15000+600000
+ 2068 strings out of 480806
+ 47972 string characters out of 5905151
+ 318732 words of memory out of 6000000
+ 19333 multiletter control sequences out of 15000+600000
  410569 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,7n,62p,3170b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -811,10 +828,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (74 pages, 707742 bytes).
+Output written on bps332manual.pdf (76 pages, 731929 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 188 compressed objects within 2 object streams
+ 367 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 

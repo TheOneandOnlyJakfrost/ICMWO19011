@@ -84,6 +84,8 @@
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}{}%
 \contentsline {subsection}{\numberline {7.2.2}Saw Parameters}{47}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{47}{}%
+\contentsline {subsection}{\numberline {7.2.3}Cross Travel Speed Override State}{47}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{48}{}%
 \contentsline {chapter}{\numberline {8}Programming - Block Program}{49}{}%
 \contentsline {section}{\numberline {8.1}Overview}{49}{}%
 \contentsline {section}{\numberline {8.2}Details}{49}{}%
@@ -97,17 +99,21 @@
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{53}{}%
 \contentsline {chapter}{\numberline {9}Programming - Check Program}{55}{}%
 \contentsline {section}{\numberline {9.1}Overview}{55}{}%
-\contentsline {section}{\numberline {9.2}Details}{55}{}%
-\contentsline {subsection}{\numberline {9.2.1}Screen Navigation}{56}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}{}%
-\contentsline {subsection}{\numberline {9.2.2}Block Details}{57}{}%
-\contentsline {paragraph}{}{57}{}%
+\contentsline {section}{\numberline {9.2}Details}{56}{}%
+\contentsline {subsection}{\numberline {9.2.1}Screen Navigation}{57}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{57}{}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{58}{}%
-\contentsline {subsection}{\numberline {9.2.3}Cycle Reset and Program Clear}{58}{}%
-\contentsline {paragraph}{PROGRAM CLEAR}{58}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{58}{}%
+\contentsline {subsection}{\numberline {9.2.2}Block Details}{59}{}%
+\contentsline {paragraph}{}{59}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{59}{}%
-\contentsline {chapter}{\numberline {10}Programming - General Guidelines}{61}{}%
-\contentsline {section}{\numberline {10.1}Best Practices}{61}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{59}{}%
+\contentsline {subsection}{\numberline {9.2.3}Cycle Reset and Program Clear}{60}{}%
+\contentsline {paragraph}{PROGRAM CLEAR}{60}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{60}{}%
+\contentsline {subsection}{\numberline {9.2.4}Set Max Cross Speed}{60}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{60}{}%
+\contentsline {subsection}{\numberline {9.2.5}Set Maximum Cross Travel Speed Screen}{61}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{61}{}%
+\contentsline {chapter}{\numberline {10}Programming - General Guidelines}{63}{}%
+\contentsline {section}{\numberline {10.1}Best Practices}{63}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{63}{}%
