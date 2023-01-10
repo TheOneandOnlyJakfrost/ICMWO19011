@@ -1,3 +1,3 @@
 # ICMWO19011
-WO 19011 for ICM Services re-qrite of Kodiak Saw Control System
+WO 19011 for ICM Services re-write of Kodiak Saw Control System
 This is a project to re-write the Omron PLC program, the Redlion Controls Crimson 3.0 Program, and the Control Techniques PowerTools Pro program, that comprise the Ogden Kodiak Rock Cut Saw control System major components. The objective is to maximize travel capabilities of the long axis (controlled by the Emerson Unidrive SP1) and add recipe capabilities that are reflective of the increased working envelope of the machine. The re-write is also an opportunity to make the PLC code more closely match PLCOpen standards, also to enhance user information and control of the system. There is an additional requirement to create a new operation and maintenance manual for use with the machine subsequent to commissioning of the new system software. 
