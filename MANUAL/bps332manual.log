@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  13 FEB 2023 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  15 FEB 2023 10:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,32 +812,30 @@ File: screen-captures/program/kodiak-saw-vert-travel.png Graphic file (type png
 Package pdftex.def Info: screen-captures/program/kodiak-saw-vert-travel.png  us
 ed on input line 28.
 (pdftex.def)             Requested size: 195.0pt x 140.67084pt.
- [65 <./screen-captures/program/kodiak-saw-vert-travel.png>]
-<screen-captures/program/kodiak-saw-crosst-travel.png, id=345, 264.23718pt x 48
+ [65]
+<screen-captures/program/kodiak-saw-crosst-travel.png, id=344, 264.23718pt x 48
 1.8pt>
 File: screen-captures/program/kodiak-saw-crosst-travel.png Graphic file (type p
 ng)
 <use screen-captures/program/kodiak-saw-crosst-travel.png>
 Package pdftex.def Info: screen-captures/program/kodiak-saw-crosst-travel.png  
-used on input line 37.
-(pdftex.def)             Requested size: 195.0pt x 355.55598pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+used on input line 38.
+(pdftex.def)             Requested size: 117.00119pt x 213.33064pt.
 
 Overfull \hbox (13.2888pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 66 \OT1/cmr/m/sl/12 CHAPTER 10.  PROGRAMMING - AUTOMATIC CUTTIN
 G SEQUENCE
  []
 
-[66] [67 <./screen-captures/program/kodiak-saw-crosst-travel.png>]
+[66 <./screen-captures/program/kodiak-saw-vert-travel.png>] [67 <./screen-captu
+res/program/kodiak-saw-crosst-travel.png>]
 <screen-captures/program/kodiak-saw-long-travel.png, id=354, 452.4403pt x 276.2
 8218pt>
 File: screen-captures/program/kodiak-saw-long-travel.png Graphic file (type png
 )
 <use screen-captures/program/kodiak-saw-long-travel.png>
 Package pdftex.def Info: screen-captures/program/kodiak-saw-long-travel.png  us
-ed on input line 45.
+ed on input line 47.
 (pdftex.def)             Requested size: 195.0pt x 119.07303pt.
 )
 Overfull \hbox (13.2888pt too wide) has occurred while \output is active
@@ -845,17 +843,7 @@ Overfull \hbox (13.2888pt too wide) has occurred while \output is active
 G SEQUENCE
  []
 
-[68] [69 <./screen-captures/program/kodiak-saw-long-travel.png>]
-Overfull \hbox (13.2888pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 70 \OT1/cmr/m/sl/12 CHAPTER 10.  PROGRAMMING - AUTOMATIC CUTTIN
-G SEQUENCE
- []
-
-[70
-
-
-
-]
+[68 <./screen-captures/program/kodiak-saw-long-travel.png>]
 No file bps332manual.ind.
 (./bps332manual.aux (./TeX_files/introduction.aux) (./TeX_files/chapter01.aux)
 (./TeX_files/chapter02.aux) (./TeX_files/chapter03.aux)
@@ -882,10 +870,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (82 pages, 795513 bytes).
+Output written on bps332manual.pdf (80 pages, 796185 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
+ 387 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  256 words of extra memory for PDF output out of 10000 (max. 10000000)
 
