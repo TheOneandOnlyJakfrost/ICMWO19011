@@ -182,7 +182,7 @@ BEGIN
  Item[3]:=136;
  ItemCount:=4;
  Sumcheck:=278;
- Selected:=152;
+ Selected:=151;
  ScrollPos:="0 7";
 END;
 Frame[0]:=
@@ -259,7 +259,6 @@ BEGIN
 END;
 Frame[4]:=
 BEGIN
- Max:=true;
  Norm:="0026 0026 0925 0412";
  Min:="-001 -001";
  Access:="PROGRAM:NewProject.Resources.FB source program.Programs.Main.Sections.Ctl_Transverse_Axis!Ctl_Transverse_Axis";
@@ -273,7 +272,52 @@ BEGIN
   nViews:=1;
  END;
 END;
-nFrames:=5;
+Frame[5]:=
+BEGIN
+ Norm:="0026 0026 0981 0281";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.FB source program.Programs.Main.Sections.Ctl_Lazer!Ctl_Lazer";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[6]:=
+BEGIN
+ Norm:="0000 0000 0955 0255";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.FB source program.Programs.Main.Sections.Ctl_Saw!Ctl_Saw";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=15;
+  END;
+  nViews:=1;
+ END;
+END;
+Frame[7]:=
+BEGIN
+ Max:=true;
+ Norm:="0052 0052 1007 0307";
+ Min:="-001 -001";
+ Access:="PROGRAM:NewProject.Resources.FB source program.Programs.Main.Sections.Ctl_Vertical_Axis!Ctl_Vertical_Axis";
+ Type:=1;
+ Views:=
+ BEGIN
+  View[0]:=
+  BEGIN
+   Yscroll:=58;
+  END;
+  nViews:=1;
+ END;
+END;
+nFrames:=8;
 WatchWindow:=
 BEGIN
  NumWatch:=3;
