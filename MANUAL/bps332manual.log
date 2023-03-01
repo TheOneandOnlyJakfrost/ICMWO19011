@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  1 MAR 2023 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  1 MAR 2023 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -901,18 +901,154 @@ pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/wo19011.pdf): PDF inclusion
 ed.
 >]
 
-pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-008.pdf): PDF inclusi
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-000.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<../DRAWINGS/19011-008.pdf, id=374, 845.07724pt x 597.55246pt>
-File: ../DRAWINGS/19011-008.pdf Graphic file (type pdf)
-<use ../DRAWINGS/19011-008.pdf>
-Package pdftex.def Info: ../DRAWINGS/19011-008.pdf  used on input line 17.
+<../DRAWINGS/19011-000.pdf, id=374, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-000.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-000.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-000.pdf  used on input line 17.
 (pdftex.def)             Requested size: 542.025pt x 383.262pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69])
-[70 <../DRAWINGS/19011-008.pdf>] (./bps332manual.aux
+ [69]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-001.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-001.pdf, id=378, 794.97pt x 614.295pt>
+File: ../DRAWINGS/19011-001.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-001.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-001.pdf  used on input line 21.
+(pdftex.def)             Requested size: 542.025pt x 418.84924pt.
+
+Overfull \hbox (28.84924pt too wide) in paragraph at lines 21--22
+ [] 
+ []
+
+[70 <../DRAWINGS/19011-000.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-002.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-002.pdf, id=385, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-002.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-002.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-002.pdf  used on input line 25.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71 <../DRAWINGS/19011-001.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-003.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-003.pdf, id=391, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-003.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-003.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-003.pdf  used on input line 29.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72 <../DRAWINGS/19011-002.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-004.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-004.pdf, id=397, 794.97pt x 614.295pt>
+File: ../DRAWINGS/19011-004.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-004.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-004.pdf  used on input line 33.
+(pdftex.def)             Requested size: 542.025pt x 418.84924pt.
+
+Overfull \hbox (28.84924pt too wide) in paragraph at lines 33--34
+ [] 
+ []
+
+[73 <../DRAWINGS/19011-003.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-005.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-005.pdf, id=404, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-005.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-005.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-005.pdf  used on input line 37.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74 <../DRAWINGS/19011-004.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-006.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-006.pdf, id=410, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-006.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-006.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-006.pdf  used on input line 41.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75 <../DRAWINGS/19011-005.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-007.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-007.pdf, id=416, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-007.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-007.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-007.pdf  used on input line 45.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76 <../DRAWINGS/19011-006.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-008.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-008.pdf, id=422, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-008.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-008.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-008.pdf  used on input line 49.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77 <../DRAWINGS/19011-007.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-009.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-009.pdf, id=428, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-009.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-009.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-009.pdf  used on input line 53.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78 <../DRAWINGS/19011-008.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-010.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-010.pdf, id=440, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-010.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-010.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-010.pdf  used on input line 57.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79 <../DRAWINGS/19011-009.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ../DRAWINGS/19011-011.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../DRAWINGS/19011-011.pdf, id=447, 845.07724pt x 597.55246pt>
+File: ../DRAWINGS/19011-011.pdf Graphic file (type pdf)
+<use ../DRAWINGS/19011-011.pdf>
+Package pdftex.def Info: ../DRAWINGS/19011-011.pdf  used on input line 61.
+(pdftex.def)             Requested size: 542.025pt x 383.262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <../DRAWINGS/19011-010.pdf>]) [81 <../DRAWINGS/19011-011.pdf>] (./bps332ma
+nual.aux
 (./TeX_files/introduction.aux) (./TeX_files/chapter01.aux)
 (./TeX_files/chapter02.aux) (./TeX_files/chapter03.aux)
 (./TeX_files/chapter04.aux) (./TeX_files/chapter05.aux)
@@ -924,13 +1060,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3379 strings out of 480806
- 74619 string characters out of 5905151
- 342025 words of memory out of 6000000
- 20623 multiletter control sequences out of 15000+600000
+ 3467 strings out of 480806
+ 77133 string characters out of 5905151
+ 342034 words of memory out of 6000000
+ 20700 multiletter control sequences out of 15000+600000
  410569 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,9n,63p,3170b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,63p,3170b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
@@ -938,10 +1074,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (82 pages, 1295559 bytes).
+Output written on bps332manual.pdf (93 pages, 2881342 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 485 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
