@@ -74,50 +74,54 @@
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{40}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{40}{}%
 \contentsline {subsection}{\numberline {6.2.2}Long Travel Home and To Limit}{41}{}%
-\contentsline {subsection}{\numberline {6.2.3}Long Travel Positioning}{43}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{43}{}%
-\contentsline {chapter}{\numberline {7}Programming - Saw Parameters Screen}{45}{}%
-\contentsline {section}{\numberline {7.1}Overview}{45}{}%
-\contentsline {section}{\numberline {7.2}Details}{45}{}%
-\contentsline {subsection}{\numberline {7.2.1}Screen Navigation}{46}{}%
+\contentsline {subsection}{\numberline {6.2.3}Long Travel Positioning}{42}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{42}{}%
+\contentsline {chapter}{\numberline {7}Programming - Saw Parameters Screen}{43}{}%
+\contentsline {section}{\numberline {7.1}Overview}{43}{}%
+\contentsline {section}{\numberline {7.2}Details}{44}{}%
+\contentsline {subsection}{\numberline {7.2.1}Screen Navigation}{45}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{45}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{45}{}%
+\contentsline {subsection}{\numberline {7.2.2}Saw Parameters}{46}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}{}%
+\contentsline {subsection}{\numberline {7.2.3}Cross Travel Speed Override State}{46}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{46}{}%
-\contentsline {subsection}{\numberline {7.2.2}Saw Parameters}{47}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{47}{}%
-\contentsline {subsection}{\numberline {7.2.3}Cross Travel Speed Override State}{47}{}%
+\contentsline {chapter}{\numberline {8}Programming - Block Program}{47}{}%
+\contentsline {section}{\numberline {8.1}Overview}{47}{}%
+\contentsline {section}{\numberline {8.2}Details}{47}{}%
+\contentsline {subsection}{\numberline {8.2.1}Screen Navigation}{48}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{48}{}%
-\contentsline {chapter}{\numberline {8}Programming - Block Program}{49}{}%
-\contentsline {section}{\numberline {8.1}Overview}{49}{}%
-\contentsline {section}{\numberline {8.2}Details}{49}{}%
-\contentsline {subsection}{\numberline {8.2.1}Screen Navigation}{50}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{48}{}%
+\contentsline {subsection}{\numberline {8.2.2}Block Details}{49}{}%
+\contentsline {paragraph}{}{50}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{50}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{50}{}%
-\contentsline {subsection}{\numberline {8.2.2}Block Details}{51}{}%
-\contentsline {paragraph}{}{52}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{52}{}%
-\contentsline {subsection}{\numberline {8.2.3}Slab Details}{53}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{53}{}%
-\contentsline {chapter}{\numberline {9}Programming - Check Program}{55}{}%
-\contentsline {section}{\numberline {9.1}Overview}{55}{}%
-\contentsline {section}{\numberline {9.2}Details}{56}{}%
-\contentsline {subsection}{\numberline {9.2.1}Screen Navigation}{57}{}%
+\contentsline {subsection}{\numberline {8.2.3}Slab Details}{51}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{51}{}%
+\contentsline {chapter}{\numberline {9}Programming - Check Program}{53}{}%
+\contentsline {section}{\numberline {9.1}Overview}{53}{}%
+\contentsline {section}{\numberline {9.2}Details}{54}{}%
+\contentsline {subsection}{\numberline {9.2.1}Screen Navigation}{55}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{55}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{56}{}%
+\contentsline {subsection}{\numberline {9.2.2}Block Details}{57}{}%
+\contentsline {paragraph}{}{57}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{57}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{57}{}%
+\contentsline {subsection}{\numberline {9.2.3}Cycle Reset and Program Clear}{58}{}%
+\contentsline {paragraph}{PROGRAM CLEAR}{58}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{58}{}%
-\contentsline {subsection}{\numberline {9.2.2}Block Details}{59}{}%
-\contentsline {paragraph}{}{59}{}%
+\contentsline {subsection}{\numberline {9.2.4}Set Max Cross Speed}{58}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{58}{}%
+\contentsline {subsection}{\numberline {9.2.5}Set Maximum Cross Travel Speed Screen}{59}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{59}{}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{59}{}%
-\contentsline {subsection}{\numberline {9.2.3}Cycle Reset and Program Clear}{60}{}%
-\contentsline {paragraph}{PROGRAM CLEAR}{60}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{60}{}%
-\contentsline {subsection}{\numberline {9.2.4}Set Max Cross Speed}{60}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{60}{}%
-\contentsline {subsection}{\numberline {9.2.5}Set Maximum Cross Travel Speed Screen}{61}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{61}{}%
-\contentsline {chapter}{\numberline {10}Programming - Automatic Cutting Sequence}{63}{}%
-\contentsline {section}{\numberline {10.1}Best Practices}{63}{}%
-\contentsline {section}{\numberline {10.2}Saw Program Details}{63}{}%
+\contentsline {chapter}{\numberline {10}Programming - Automatic Cutting Sequence}{61}{}%
+\contentsline {section}{\numberline {10.1}Best Practices}{61}{}%
+\contentsline {section}{\numberline {10.2}Saw Program Details}{61}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{62}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{63}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{64}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{65}{}%
 \contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{66}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{68}{}%
+\contentsline {chapter}{Appendix}{67}{}%
+\contentsline {section}{\numberline {.1}Control System Logic Diagram}{67}{}%
+\contentsline {section}{\numberline {.2}Control System Wiring Diagrams}{69}{}%
+\contentsline {chapter}{Index}{67}{}%

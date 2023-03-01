@@ -3,6 +3,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{color}
+\usepackage{caption}  % in preamble
 \usepackage{makeidx} \makeindex
 \begin{document}
 
@@ -29,6 +30,11 @@
 \include{./TeX_files/chapter09}
 \include{./TeX_files/chapter10}
 \backmatter
+\addcontentsline{toc}{chapter}{Index}
 \printindex
+
+\appendix
+\include{./TeX_files/appen1}
 % bibliography, glossary and index would go here.
+
 \end{document}
