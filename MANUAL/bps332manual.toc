@@ -1,10 +1,10 @@
-\contentsline {chapter}{Introduction}{ix}{}%
-\contentsline {section}{\numberline {0.1}Manual Overview}{ix}{}%
-\contentsline {paragraph}{}{ix}{}%
-\contentsline {paragraph}{}{ix}{}%
-\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{ix}{}%
-\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{ix}{}%
-\contentsline {subsection}{\numberline {0.1.1}Screen Layout Style}{x}{}%
+\contentsline {chapter}{Introduction}{xi}{}%
+\contentsline {section}{\numberline {0.1}Manual Overview}{xi}{}%
+\contentsline {paragraph}{}{xi}{}%
+\contentsline {paragraph}{}{xi}{}%
+\contentsline {paragraph}{\textbf {\LARGE \textcolor {blue}{i}}}{xi}{}%
+\contentsline {paragraph}{\textbf {{\LARGE \textcolor {red}{!}}}}{xi}{}%
+\contentsline {subsection}{\numberline {0.1.1}Screen Layout Style}{xii}{}%
 \contentsline {chapter}{\numberline {1}The Main Screen}{1}{}%
 \contentsline {section}{\numberline {1.1}Overview}{1}{}%
 \contentsline {section}{\numberline {1.2}Main Screen Details}{2}{}%
