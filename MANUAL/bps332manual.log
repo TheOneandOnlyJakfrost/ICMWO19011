@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  2 MAR 2023 09:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  2 MAR 2023 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1047,8 +1047,110 @@ Package pdftex.def Info: ../DRAWINGS/19011-011.pdf  used on input line 61.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [80 <../DRAWINGS/19011-010.pdf>]) [81 <../DRAWINGS/19011-011.pdf>] (./bps332ma
-nual.aux
+ [80 <../DRAWINGS/19011-010.pdf>]
+<afiles/FX1.pdf, id=459, 614.295pt x 794.97pt>
+File: afiles/FX1.pdf Graphic file (type pdf)
+<use afiles/FX1.pdf>
+Package pdftex.def Info: afiles/FX1.pdf  used on input line 66.
+(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+
+Overfull \hbox (79.75499pt too wide) in paragraph at lines 66--68
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81 <../DRAWINGS/19011-011.pdf>]
+Overfull \vbox (55.30295pt too high) has occurred while \output is active []
+
+
+[82 <./afiles/FX1.pdf>]
+<afiles/FX2.pdf, id=507, 614.295pt x 794.97pt>
+File: afiles/FX2.pdf Graphic file (type pdf)
+<use afiles/FX2.pdf>
+Package pdftex.def Info: afiles/FX2.pdf  used on input line 70.
+(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+
+Overfull \hbox (79.75499pt too wide) in paragraph at lines 70--72
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Overfull \vbox (15.9196pt too high) has occurred while \output is active []
+
+
+[84 <./afiles/FX2.pdf>]
+<afiles/FX3.pdf, id=535, 614.295pt x 794.97pt>
+File: afiles/FX3.pdf Graphic file (type pdf)
+<use afiles/FX3.pdf>
+Package pdftex.def Info: afiles/FX3.pdf  used on input line 74.
+(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+
+Overfull \hbox (79.75499pt too wide) in paragraph at lines 74--76
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]
+Overfull \vbox (15.9196pt too high) has occurred while \output is active []
+
+
+[86 <./afiles/FX3.pdf>]
+<afiles/FX4.pdf, id=569, 614.295pt x 794.97pt>
+File: afiles/FX4.pdf Graphic file (type pdf)
+<use afiles/FX4.pdf>
+Package pdftex.def Info: afiles/FX4.pdf  used on input line 78.
+(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+
+Overfull \hbox (79.75499pt too wide) in paragraph at lines 78--80
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+Overfull \vbox (15.9196pt too high) has occurred while \output is active []
+
+
+[88 <./afiles/FX4.pdf>]
+<afiles/E23_DS_701949_2.pdf, id=614, 614.295pt x 794.97pt>
+File: afiles/E23_DS_701949_2.pdf Graphic file (type pdf)
+<use afiles/E23_DS_701949_2.pdf>
+Package pdftex.def Info: afiles/E23_DS_701949_2.pdf  used on input line 83.
+(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+
+Overfull \hbox (79.75499pt too wide) in paragraph at lines 83--85
+ [] 
+ []
+
+
+Overfull \vbox (55.30295pt too high) has occurred while \output is active []
+
+
+[89 <./afiles/E23_DS_701949_2.pdf>]
+<afiles/9006CT1101 Encoders.pdf, id=672, 597.50829pt x 845.0471pt>
+File: afiles/9006CT1101 Encoders.pdf Graphic file (type pdf)
+<use afiles/9006CT1101 Encoders.pdf>
+Package pdftex.def Info: afiles/9006CT1101 Encoders.pdf  used on input line 88.
+
+(pdftex.def)             Requested size: 469.75499pt x 664.3692pt.
+
+Overfull \hbox (79.75499pt too wide) in paragraph at lines 88--90
+ [] 
+ []
+
+
+Overfull \vbox (133.75255pt too high) has occurred while \output is active []
+
+
+[90 <./afiles/9006CT1101 Encoders.pdf>]) (./bps332manual.aux
 (./TeX_files/introduction.aux) (./TeX_files/chapter01.aux)
 (./TeX_files/chapter02.aux) (./TeX_files/chapter03.aux)
 (./TeX_files/chapter04.aux) (./TeX_files/chapter05.aux)
@@ -1060,10 +1162,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3467 strings out of 480806
- 77133 string characters out of 5905151
- 343134 words of memory out of 6000000
- 20700 multiletter control sequences out of 15000+600000
+ 3510 strings out of 480806
+ 78214 string characters out of 5905151
+ 343136 words of memory out of 6000000
+ 20736 multiletter control sequences out of 15000+600000
  410569 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,9n,63p,3170b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1074,10 +1176,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (95 pages, 2878593 bytes).
+Output written on bps332manual.pdf (104 pages, 3885640 bytes).
 PDF statistics:
- 491 PDF objects out of 1000 (max. 8388607)
- 260 compressed objects within 3 object streams
+ 742 PDF objects out of 1000 (max. 8388607)
+ 404 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 321 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 351 words of extra memory for PDF output out of 10000 (max. 10000000)
 
