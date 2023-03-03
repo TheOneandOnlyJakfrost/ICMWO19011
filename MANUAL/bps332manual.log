@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  2 MAR 2023 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.9.23)  3 MAR 2023 10:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1052,9 +1052,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: afiles/FX1.pdf Graphic file (type pdf)
 <use afiles/FX1.pdf>
 Package pdftex.def Info: afiles/FX1.pdf  used on input line 66.
-(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+(pdftex.def)             Requested size: 397.48499pt x 514.39537pt.
 
-Overfull \hbox (79.75499pt too wide) in paragraph at lines 66--68
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 66--68
  [] 
  []
 
@@ -1062,110 +1062,235 @@ Overfull \hbox (79.75499pt too wide) in paragraph at lines 66--68
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81 <../DRAWINGS/19011-011.pdf>]
-Overfull \vbox (55.30295pt too high) has occurred while \output is active []
-
-
-[82 <./afiles/FX1.pdf>]
-<afiles/FX2.pdf, id=507, 614.295pt x 794.97pt>
+<afiles/FX2.pdf, id=465, 614.295pt x 794.97pt>
 File: afiles/FX2.pdf Graphic file (type pdf)
 <use afiles/FX2.pdf>
 Package pdftex.def Info: afiles/FX2.pdf  used on input line 70.
-(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
 
-Overfull \hbox (79.75499pt too wide) in paragraph at lines 70--72
+Overfull \hbox (43.62pt too wide) in paragraph at lines 70--72
  [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [83]
-Overfull \vbox (15.9196pt too high) has occurred while \output is active []
-
-
-[84 <./afiles/FX2.pdf>]
-<afiles/FX3.pdf, id=535, 614.295pt x 794.97pt>
+[82 <./afiles/FX1.pdf>]
+<afiles/FX3.pdf, id=508, 614.295pt x 794.97pt>
 File: afiles/FX3.pdf Graphic file (type pdf)
 <use afiles/FX3.pdf>
 Package pdftex.def Info: afiles/FX3.pdf  used on input line 74.
-(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
 
-Overfull \hbox (79.75499pt too wide) in paragraph at lines 74--76
+Overfull \hbox (43.62pt too wide) in paragraph at lines 74--76
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
-Overfull \vbox (15.9196pt too high) has occurred while \output is active []
-
-
-[86 <./afiles/FX3.pdf>]
-<afiles/FX4.pdf, id=569, 614.295pt x 794.97pt>
+ [83 <./afiles/FX2.pdf>]
+<afiles/FX4.pdf, id=533, 614.295pt x 794.97pt>
 File: afiles/FX4.pdf Graphic file (type pdf)
 <use afiles/FX4.pdf>
 Package pdftex.def Info: afiles/FX4.pdf  used on input line 78.
-(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
 
-Overfull \hbox (79.75499pt too wide) in paragraph at lines 78--80
+Overfull \hbox (43.62pt too wide) in paragraph at lines 78--80
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
-Overfull \vbox (15.9196pt too high) has occurred while \output is active []
-
-
-[88 <./afiles/FX4.pdf>]
-<afiles/E23_DS_701949_2.pdf, id=614, 614.295pt x 794.97pt>
+ [84 <./afiles/FX3.pdf>]
+<afiles/E23_DS_701949_2.pdf, id=564, 614.295pt x 794.97pt>
 File: afiles/E23_DS_701949_2.pdf Graphic file (type pdf)
 <use afiles/E23_DS_701949_2.pdf>
 Package pdftex.def Info: afiles/E23_DS_701949_2.pdf  used on input line 83.
-(pdftex.def)             Requested size: 469.75499pt x 607.9196pt.
+(pdftex.def)             Requested size: 397.48499pt x 514.39537pt.
 
-Overfull \hbox (79.75499pt too wide) in paragraph at lines 83--85
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 83--85
  [] 
  []
 
 
-Overfull \vbox (55.30295pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-[89 <./afiles/E23_DS_701949_2.pdf>]
-<afiles/9006CT1101 Encoders.pdf, id=672, 597.50829pt x 845.0471pt>
+ [85 <./afiles/FX4.pdf>]
+<afiles/9006CT1101 Encoders.pdf, id=606, 597.50829pt x 845.0471pt>
 File: afiles/9006CT1101 Encoders.pdf Graphic file (type pdf)
 <use afiles/9006CT1101 Encoders.pdf>
 Package pdftex.def Info: afiles/9006CT1101 Encoders.pdf  used on input line 88.
 
-(pdftex.def)             Requested size: 469.75499pt x 664.3692pt.
+(pdftex.def)             Requested size: 397.48499pt x 562.15558pt.
 
-Overfull \hbox (79.75499pt too wide) in paragraph at lines 88--90
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 88--90
  [] 
  []
 
 
-Overfull \vbox (133.75255pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86 <./afiles/E23_DS_701949_2.pdf>]
+Overfull \vbox (31.53893pt too high) has occurred while \output is active []
 
 
-[90 <./afiles/9006CT1101 Encoders.pdf>]) (./bps332manual.aux
-(./TeX_files/introduction.aux) (./TeX_files/chapter01.aux)
-(./TeX_files/chapter02.aux) (./TeX_files/chapter03.aux)
-(./TeX_files/chapter04.aux) (./TeX_files/chapter05.aux)
-(./TeX_files/chapter06.aux) (./TeX_files/chapter07.aux)
-(./TeX_files/chapter08.aux) (./TeX_files/chapter09.aux)
-(./TeX_files/chapter10.aux) (./TeX_files/appen1.aux))
+Overfull \hbox (15.00421pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 .5.  SCHNEIDER ELECTRIC POTENTIAL ENCODER REPLACEMENTS \OT1/cm
+r/m/n/12 87
+ []
+
+[87 <./afiles/9006CT1101 Encoders.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold1.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold1.pdf, id=704, 614.295pt x 794.97pt>
+File: afiles/manold1.pdf Graphic file (type pdf)
+<use afiles/manold1.pdf>
+Package pdftex.def Info: afiles/manold1.pdf  used on input line 93.
+(pdftex.def)             Requested size: 397.48499pt x 514.39537pt.
+
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 93--95
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold2.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold2.pdf, id=708, 614.295pt x 794.97pt>
+File: afiles/manold2.pdf Graphic file (type pdf)
+<use afiles/manold2.pdf>
+Package pdftex.def Info: afiles/manold2.pdf  used on input line 97.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 97--99
+ [] 
+ []
+
+[89 <./afiles/manold1.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold3.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold3.pdf, id=716, 614.295pt x 794.97pt>
+File: afiles/manold3.pdf Graphic file (type pdf)
+<use afiles/manold3.pdf>
+Package pdftex.def Info: afiles/manold3.pdf  used on input line 101.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 101--103
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90 <./afiles/manold2.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold4.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold4.pdf, id=722, 614.295pt x 794.97pt>
+File: afiles/manold4.pdf Graphic file (type pdf)
+<use afiles/manold4.pdf>
+Package pdftex.def Info: afiles/manold4.pdf  used on input line 105.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 105--107
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91 <./afiles/manold3.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold5.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold5.pdf, id=728, 614.295pt x 794.97pt>
+File: afiles/manold5.pdf Graphic file (type pdf)
+<use afiles/manold5.pdf>
+Package pdftex.def Info: afiles/manold5.pdf  used on input line 109.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 109--111
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [92 <./afiles/manold4.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold6.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold6.pdf, id=734, 614.295pt x 794.97pt>
+File: afiles/manold6.pdf Graphic file (type pdf)
+<use afiles/manold6.pdf>
+Package pdftex.def Info: afiles/manold6.pdf  used on input line 113.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 113--115
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93 <./afiles/manold5.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold7.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold7.pdf, id=740, 614.295pt x 794.97pt>
+File: afiles/manold7.pdf Graphic file (type pdf)
+<use afiles/manold7.pdf>
+Package pdftex.def Info: afiles/manold7.pdf  used on input line 117.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 117--119
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94 <./afiles/manold6.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./afiles/manold8.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<afiles/manold8.pdf, id=746, 614.295pt x 794.97pt>
+File: afiles/manold8.pdf Graphic file (type pdf)
+<use afiles/manold8.pdf>
+Package pdftex.def Info: afiles/manold8.pdf  used on input line 121.
+(pdftex.def)             Requested size: 433.62pt x 561.15749pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 121--123
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95 <./afiles/manold7.pdf>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96 <./afiles/manold8.pdf>] (./bps332manual.aux (./TeX_files/introduction.aux)
+
+(./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
+(./TeX_files/chapter03.aux) (./TeX_files/chapter04.aux)
+(./TeX_files/chapter05.aux) (./TeX_files/chapter06.aux)
+(./TeX_files/chapter07.aux) (./TeX_files/chapter08.aux)
+(./TeX_files/chapter09.aux) (./TeX_files/chapter10.aux) (./TeX_files/appen1.aux
+))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3510 strings out of 480806
- 78214 string characters out of 5905151
- 343136 words of memory out of 6000000
- 20736 multiletter control sequences out of 15000+600000
+ 3580 strings out of 480806
+ 79688 string characters out of 5905151
+ 343276 words of memory out of 6000000
+ 20798 multiletter control sequences out of 15000+600000
  410569 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,9n,63p,3170b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1176,10 +1301,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on bps332manual.pdf (104 pages, 3885640 bytes).
+Output written on bps332manual.pdf (110 pages, 12710902 bytes).
 PDF statistics:
- 742 PDF objects out of 1000 (max. 8388607)
- 404 compressed objects within 5 object streams
+ 787 PDF objects out of 1000 (max. 8388607)
+ 427 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 

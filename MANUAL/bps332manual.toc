@@ -125,6 +125,7 @@
 \contentsline {section}{\numberline {.1}Control System Logic Diagram}{67}{}%
 \contentsline {section}{\numberline {.2}Control System Wiring Diagrams}{69}{}%
 \contentsline {section}{\numberline {.3}AV20 Encoder}{82}{}%
-\contentsline {section}{\numberline {.4}Dynapar Potential Encoder Replacements}{89}{}%
-\contentsline {section}{\numberline {.5}Schneider Electric Potential Encoder Replacements}{90}{}%
+\contentsline {section}{\numberline {.4}Dynapar Potential Encoder Replacements}{86}{}%
+\contentsline {section}{\numberline {.5}Schneider Electric Potential Encoder Replacements}{87}{}%
+\contentsline {section}{\numberline {.6}Original Manual Pages}{89}{}%
 \contentsline {chapter}{Index}{67}{}%
